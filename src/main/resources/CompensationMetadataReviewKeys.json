@@ -1,0 +1,90 @@
+{
+  "Get_Import_Compensation_Review_Budget_Pools": {
+    "displayName": "Get_Import_Compensation_Review_Budget_Pools",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Import_Compensation_Review_Budget_Pools",
+    "properties": [
+      
+    ]
+  },
+  "Get_Employee_Awards": {
+    "displayName": "Get_Employee_Awards",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Employee_Awards",
+    "properties": [
+      
+    ]
+  },
+  "Import_Budget_Pools": {
+    "displayName": "Import_Budget_Pools",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Budget_Pools",
+    "properties": [
+      
+    ]
+  },
+  "Import_Compensation_Review_Budget_Pools": {
+    "displayName": "Import_Compensation_Review_Budget_Pools",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Compensation_Review_Budget_Pools",
+    "properties": [
+      
+    ]
+  },
+  "Get_Budget_Pools": {
+    "displayName": "Get_Budget_Pools",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Budget_Pools",
+    "properties": [
+      
+    ]
+  },
+  "Put_Deferred_Bonus_Calculation": {
+    "displayName": "Put_Deferred_Bonus_Calculation",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Deferred_Bonus_Calculation",
+    "properties": [
+      
+    ]
+  },
+  "Import_Employee_Awards": {
+    "displayName": "Import_Employee_Awards",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Employee_Awards",
+    "properties": [
+      
+    ]
+  },
+  "Get_Deferred_Bonus_Calculation": {
+    "displayName": "Get_Deferred_Bonus_Calculation",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Deferred_Bonus_Calculation",
+    "properties": [
+      
+    ]
+  }
+}
