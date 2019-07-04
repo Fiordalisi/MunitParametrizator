@@ -1,0 +1,519 @@
+{
+  "Update_Stock_Grant": {
+    "displayName": "Update_Stock_Grant",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Update_Stock_Grant",
+    "properties": [
+      
+    ]
+  },
+  "Put_Enhanced_Severance_Matrix": {
+    "displayName": "Put_Enhanced_Severance_Matrix",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Enhanced_Severance_Matrix",
+    "properties": [
+      
+    ]
+  },
+  "Request_Default_Compensation": {
+    "displayName": "Request_Default_Compensation",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Request_Default_Compensation",
+    "properties": [
+      
+    ]
+  },
+  "Put_One-Time_Payment_Plan_Configurable_Category": {
+    "displayName": "Put_One-Time_Payment_Plan_Configurable_Category",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_One-Time_Payment_Plan_Configurable_Category",
+    "properties": [
+      
+    ]
+  },
+  "Put_Compensation_Plans": {
+    "displayName": "Put_Compensation_Plans",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Compensation_Plans",
+    "properties": [
+      
+    ]
+  },
+  "Get_Stock_Participation_Rate_Tables": {
+    "displayName": "Get_Stock_Participation_Rate_Tables",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Stock_Participation_Rate_Tables",
+    "properties": [
+      
+    ]
+  },
+  "Request_Requisition_Compensation_Change": {
+    "displayName": "Request_Requisition_Compensation_Change",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Request_Requisition_Compensation_Change",
+    "properties": [
+      
+    ]
+  },
+  "Put_Compensation_Grade_Hierarchy": {
+    "displayName": "Put_Compensation_Grade_Hierarchy",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Compensation_Grade_Hierarchy",
+    "properties": [
+      
+    ]
+  },
+  "Get_Period_Activity_Tasks": {
+    "displayName": "Get_Period_Activity_Tasks",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Period_Activity_Tasks",
+    "properties": [
+      
+    ]
+  },
+  "Get_Compensation_Eligibility_Rules": {
+    "displayName": "Get_Compensation_Eligibility_Rules",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Compensation_Eligibility_Rules",
+    "properties": [
+      
+    ]
+  },
+  "Get_Period_Activity_Rate_Matrices": {
+    "displayName": "Get_Period_Activity_Rate_Matrices",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Period_Activity_Rate_Matrices",
+    "properties": [
+      
+    ]
+  },
+  "Request_Bonus_Payment": {
+    "displayName": "Request_Bonus_Payment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Request_Bonus_Payment",
+    "properties": [
+      
+    ]
+  },
+  "Put_Compensation_Grade": {
+    "displayName": "Put_Compensation_Grade",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Compensation_Grade",
+    "properties": [
+      
+    ]
+  },
+  "Assign_Eligible_Period_Activities_for_Employee": {
+    "displayName": "Assign_Eligible_Period_Activities_for_Employee",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assign_Eligible_Period_Activities_for_Employee",
+    "properties": [
+      
+    ]
+  },
+  "Import_Request_Compensation_Change": {
+    "displayName": "Import_Request_Compensation_Change",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Request_Compensation_Change",
+    "properties": [
+      
+    ]
+  },
+  "Request_One-Time_Payment": {
+    "displayName": "Request_One-Time_Payment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Request_One-Time_Payment",
+    "properties": [
+      
+    ]
+  },
+  "Put_Compensation_Scorecard_Result": {
+    "displayName": "Put_Compensation_Scorecard_Result",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Compensation_Scorecard_Result",
+    "properties": [
+      
+    ]
+  },
+  "Get_Compensation_Grades": {
+    "displayName": "Get_Compensation_Grades",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Compensation_Grades",
+    "properties": [
+      
+    ]
+  },
+  "Get_Compensation_Scorecard_Results": {
+    "displayName": "Get_Compensation_Scorecard_Results",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Compensation_Scorecard_Results",
+    "properties": [
+      
+    ]
+  },
+  "Create_Severance_Worksheet": {
+    "displayName": "Create_Severance_Worksheet",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Create_Severance_Worksheet",
+    "properties": [
+      
+    ]
+  },
+  "Get_Enhanced_Severance_Matrices": {
+    "displayName": "Get_Enhanced_Severance_Matrices",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Enhanced_Severance_Matrices",
+    "properties": [
+      
+    ]
+  },
+  "Put_Compensation_Eligibility_Rule": {
+    "displayName": "Put_Compensation_Eligibility_Rule",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Compensation_Eligibility_Rule",
+    "properties": [
+      
+    ]
+  },
+  "Get_Compensation_Plans": {
+    "displayName": "Get_Compensation_Plans",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Compensation_Plans",
+    "properties": [
+      
+    ]
+  },
+  "Import_Eligible_Earnings_Override": {
+    "displayName": "Import_Eligible_Earnings_Override",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Eligible_Earnings_Override",
+    "properties": [
+      
+    ]
+  },
+  "Get_Compensation_Matrices": {
+    "displayName": "Get_Compensation_Matrices",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Compensation_Matrices",
+    "properties": [
+      
+    ]
+  },
+  "Add_Stock_Grant": {
+    "displayName": "Add_Stock_Grant",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Add_Stock_Grant",
+    "properties": [
+      
+    ]
+  },
+  "Put_Compensation_Matrix": {
+    "displayName": "Put_Compensation_Matrix",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Compensation_Matrix",
+    "properties": [
+      
+    ]
+  },
+  "Get_Previous_System_Compensation_History": {
+    "displayName": "Get_Previous_System_Compensation_History",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Previous_System_Compensation_History",
+    "properties": [
+      
+    ]
+  },
+  "Put_Period_Activity_Task": {
+    "displayName": "Put_Period_Activity_Task",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Period_Activity_Task",
+    "properties": [
+      
+    ]
+  },
+  "Put_Previous_System_Compensation_History": {
+    "displayName": "Put_Previous_System_Compensation_History",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Previous_System_Compensation_History",
+    "properties": [
+      
+    ]
+  },
+  "Get_Compensation_Grade_Hierarchy": {
+    "displayName": "Get_Compensation_Grade_Hierarchy",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Compensation_Grade_Hierarchy",
+    "properties": [
+      
+    ]
+  },
+  "Request_Employee_Merit_Adjustment": {
+    "displayName": "Request_Employee_Merit_Adjustment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Request_Employee_Merit_Adjustment",
+    "properties": [
+      
+    ]
+  },
+  "Get_Benchmark_Jobs": {
+    "displayName": "Get_Benchmark_Jobs",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Benchmark_Jobs",
+    "properties": [
+      
+    ]
+  },
+  "Put_Stock_Participation_Rate_Table": {
+    "displayName": "Put_Stock_Participation_Rate_Table",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Stock_Participation_Rate_Table",
+    "properties": [
+      
+    ]
+  },
+  "Put_Benchmark_Job": {
+    "displayName": "Put_Benchmark_Job",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Benchmark_Job",
+    "properties": [
+      
+    ]
+  },
+  "Get_Compensation_Scorecards": {
+    "displayName": "Get_Compensation_Scorecards",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Compensation_Scorecards",
+    "properties": [
+      
+    ]
+  },
+  "Get_Eligible_Earnings": {
+    "displayName": "Get_Eligible_Earnings",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Eligible_Earnings",
+    "properties": [
+      
+    ]
+  },
+  "Put_Compensation_Scorecard": {
+    "displayName": "Put_Compensation_Scorecard",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Compensation_Scorecard",
+    "properties": [
+      
+    ]
+  },
+  "Put_Period_Activity_Rate_Matrix": {
+    "displayName": "Put_Period_Activity_Rate_Matrix",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Period_Activity_Rate_Matrix",
+    "properties": [
+      
+    ]
+  },
+  "Get_Compensation_Eligibility_Rules_without_Dependencies": {
+    "displayName": "Get_Compensation_Eligibility_Rules_without_Dependencies",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Compensation_Eligibility_Rules_without_Dependencies",
+    "properties": [
+      
+    ]
+  },
+  "Put_Eligible_Earnings": {
+    "displayName": "Put_Eligible_Earnings",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Eligible_Earnings",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Period_Activity_Pay_Assignments": {
+    "displayName": "Manage_Period_Activity_Pay_Assignments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Period_Activity_Pay_Assignments",
+    "properties": [
+      
+    ]
+  },
+  "Put_Future_Payment_Plan_Assignment": {
+    "displayName": "Put_Future_Payment_Plan_Assignment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Future_Payment_Plan_Assignment",
+    "properties": [
+      
+    ]
+  },
+  "Request_Compensation_Change": {
+    "displayName": "Request_Compensation_Change",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Request_Compensation_Change",
+    "properties": [
+      
+    ]
+  },
+  "Get_Future_Payment_Plan_Assignments": {
+    "displayName": "Get_Future_Payment_Plan_Assignments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Future_Payment_Plan_Assignments",
+    "properties": [
+      
+    ]
+  },
+  "Get_One-Time_Payment_Plan_Configurable_Categories": {
+    "displayName": "Get_One-Time_Payment_Plan_Configurable_Categories",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_One-Time_Payment_Plan_Configurable_Categories",
+    "properties": [
+      
+    ]
+  },
+  "Retrieve_Severance_Worksheet": {
+    "displayName": "Retrieve_Severance_Worksheet",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Retrieve_Severance_Worksheet",
+    "properties": [
+      
+    ]
+  }
+}
