@@ -35,7 +35,7 @@ public class Workday {
 
     public static void main(String[] args) throws IOException {
             // PUT THE FILE NAME OF THE KEYS
-            Workday.getParametrization("CompensationMetadataReviewKeys.json");
+            Workday.getParametrization("Integrations.json");
 
     }
 }
