@@ -33,9 +33,47 @@ public class Workday {
         System.out.println("\t</munit:parameterizations>\n");
     }
 
+    public static void generateExclude(){
+        String asd[] = {"AddAcademicAppointmentTestCase.xml\n" ,
+                "CancelSupplierInvoiceTestCase.xml\n",
+                "CloseJobRequisitionTestCase.xml\n",
+                "EnterTimeOffTestCase.xml\n",
+                "GetCompensationPlansTestCase.xml\n",
+                "GetCustomListsTestCase.xml\n",
+                "GetDegreesTestCase.xml\n",
+                "GetEmployeeAwardsTestCase.xml\n",
+                "GetHeadcountPlanStructuresTestCase.xml\n",
+                "GetPaymentTypesTestCase.xml\n",
+                "GetPayrollCANYearEndsFormsTestCase.xml\n",
+                "GetPayrollPayeeNIsTestCase.xml\n",
+                "GetPayrollPayeePT1sTestCase.xml\n",
+                "GetPeriodSchedulesTestCase.xml\n",
+                "GetTextBlockCategoryTestCase.xml\n",
+                "GetWorkdayAccountSignOnsTestCase.xml\n",
+                "performance-management-flows.xml\n",
+                "performance-management-tests.xml\n",
+                "PutBenefitAnnualRateTestCase.xml\n",
+                "PutCompetencyTestCase.xml\n",
+                "PutFundTestCase.xml\n",
+                "PutIntegrationMessageTestCase.xml\n",
+                "PutStudentApplicationTestCase.xml\n",
+                "PutStudentCompetencyTestCase.xml\n",
+                "PutStudentEducationalInstitutionTestCase.xml\n",
+                "PutTimeClockEventsTestCase.xml\n",
+                "PutTranslatableTenantDataPublicTestCase.xml\n",
+                "SubmitDonorContributionIT.xml\n",
+                "SubmitDonorContributionTestCase.xml\n",
+                "SubmitStudentRecruiterTestCase.xml\n",
+                "TerminateEmployeeTestCase.xml"};
+        for (int i = 0; i < asd.length; i++) {
+            System.out.println("<exclude>" + asd[i] + "<exclude/>");
+        }
+    }
+
     public static void main(String[] args) throws IOException {
             // PUT THE FILE NAME OF THE KEYS
-            Workday.getParametrization("Integrations.json");
+            Workday.getParametrization("Adoption.json");
+        //Workday.generateExclude();
 
     }
 }

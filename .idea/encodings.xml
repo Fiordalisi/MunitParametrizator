@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/resources/Adoption.json" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/main/resources/HumanResources.json" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/main/resources/Integration.json" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/main/resources/Integrations.json" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Recruiting.json" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Staffing.json" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Talent.json" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/src/main/resources/compensationKeys.json" charset="ISO-8859-1" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

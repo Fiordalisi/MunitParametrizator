@@ -1,0 +1,1014 @@
+{
+  "Get_Talent_Statement_Types": {
+    "displayName": "Get_Talent_Statement_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Talent_Statement_Types",
+    "properties": [
+      
+    ]
+  },
+  "Get_Skill_Profiles": {
+    "displayName": "Get_Skill_Profiles",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Skill_Profiles",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Travel_Preferences": {
+    "displayName": "Edit_Travel_Preferences",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Travel_Preferences",
+    "properties": [
+      
+    ]
+  },
+  "Put_Connection_Type": {
+    "displayName": "Put_Connection_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Connection_Type",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Skills": {
+    "displayName": "Manage_Skills",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Skills",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Succession_Pool": {
+    "displayName": "Manage_Succession_Pool",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Succession_Pool",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Training": {
+    "displayName": "Manage_Training",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Training",
+    "properties": [
+      
+    ]
+  },
+  "Get_Competencies": {
+    "displayName": "Get_Competencies",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Competencies",
+    "properties": [
+      
+    ]
+  },
+  "Get_Skills": {
+    "displayName": "Get_Skills",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Skills",
+    "properties": [
+      
+    ]
+  },
+  "Put_Development_Item_Status": {
+    "displayName": "Put_Development_Item_Status",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Development_Item_Status",
+    "properties": [
+      
+    ]
+  },
+  "Put_Succession_Strategy": {
+    "displayName": "Put_Succession_Strategy",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Succession_Strategy",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Job_History": {
+    "displayName": "Manage_Job_History",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Job_History",
+    "properties": [
+      
+    ]
+  },
+  "Get_Skill_Source_Precedences": {
+    "displayName": "Get_Skill_Source_Precedences",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Skill_Source_Precedences",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Relocation_Preferences": {
+    "displayName": "Edit_Relocation_Preferences",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Relocation_Preferences",
+    "properties": [
+      
+    ]
+  },
+  "Put_Field_Of_Study": {
+    "displayName": "Put_Field_Of_Study",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Field_Of_Study",
+    "properties": [
+      
+    ]
+  },
+  "Put_Talent_Statement": {
+    "displayName": "Put_Talent_Statement",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Talent_Statement",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Work_Experience": {
+    "displayName": "Manage_Work_Experience",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Work_Experience",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Competencies": {
+    "displayName": "Manage_Competencies",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Competencies",
+    "properties": [
+      
+    ]
+  },
+  "Put_Skill_Profile": {
+    "displayName": "Put_Skill_Profile",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Skill_Profile",
+    "properties": [
+      
+    ]
+  },
+  "Get_Certifications": {
+    "displayName": "Get_Certifications",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Certifications",
+    "properties": [
+      
+    ]
+  },
+  "Get_Competency_Snapshots": {
+    "displayName": "Get_Competency_Snapshots",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Competency_Snapshots",
+    "properties": [
+      
+    ]
+  },
+  "Put_School": {
+    "displayName": "Put_School",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_School",
+    "properties": [
+      
+    ]
+  },
+  "Put_Subspecialty": {
+    "displayName": "Put_Subspecialty",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Subspecialty",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Languages": {
+    "displayName": "Manage_Languages",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Languages",
+    "properties": [
+      
+    ]
+  },
+  "Put_Certification_Issuer": {
+    "displayName": "Put_Certification_Issuer",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Certification_Issuer",
+    "properties": [
+      
+    ]
+  },
+  "Give_Feedback": {
+    "displayName": "Give_Feedback",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Give_Feedback",
+    "properties": [
+      
+    ]
+  },
+  "Put_Skill": {
+    "displayName": "Put_Skill",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Skill",
+    "properties": [
+      
+    ]
+  },
+  "Get_Professional_Affiliation_Relationship_Types": {
+    "displayName": "Get_Professional_Affiliation_Relationship_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Professional_Affiliation_Relationship_Types",
+    "properties": [
+      
+    ]
+  },
+  "Put_Talent_Review_Onboarding_Setup": {
+    "displayName": "Put_Talent_Review_Onboarding_Setup",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Talent_Review_Onboarding_Setup",
+    "properties": [
+      
+    ]
+  },
+  "Get_Degrees": {
+    "displayName": "Get_Degrees",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Degrees",
+    "properties": [
+      
+    ]
+  },
+  "Put_Proficiency_Rating_Scale": {
+    "displayName": "Put_Proficiency_Rating_Scale",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Proficiency_Rating_Scale",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Job_Interests": {
+    "displayName": "Edit_Job_Interests",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Job_Interests",
+    "properties": [
+      
+    ]
+  },
+  "Get_Fields_Of_Study": {
+    "displayName": "Get_Fields_Of_Study",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Fields_Of_Study",
+    "properties": [
+      
+    ]
+  },
+  "Get_Manage_Skills": {
+    "displayName": "Get_Manage_Skills",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Manage_Skills",
+    "properties": [
+      
+    ]
+  },
+  "Put_Skill_Item_Category": {
+    "displayName": "Put_Skill_Item_Category",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Skill_Item_Category",
+    "properties": [
+      
+    ]
+  },
+  "Get_Professional_Affiliation_Types": {
+    "displayName": "Get_Professional_Affiliation_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Professional_Affiliation_Types",
+    "properties": [
+      
+    ]
+  },
+  "Get_Schools": {
+    "displayName": "Get_Schools",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Schools",
+    "properties": [
+      
+    ]
+  },
+  "Get_Development_Item_Categories": {
+    "displayName": "Get_Development_Item_Categories",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Development_Item_Categories",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Career_Interests": {
+    "displayName": "Edit_Career_Interests",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Career_Interests",
+    "properties": [
+      
+    ]
+  },
+  "Put_Professional_Affiliation_Type": {
+    "displayName": "Put_Professional_Affiliation_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Professional_Affiliation_Type",
+    "properties": [
+      
+    ]
+  },
+  "Put_Close_Mentorship_Reason": {
+    "displayName": "Put_Close_Mentorship_Reason",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Close_Mentorship_Reason",
+    "properties": [
+      
+    ]
+  },
+  "Put_Talent_Pool": {
+    "displayName": "Put_Talent_Pool",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Talent_Pool",
+    "properties": [
+      
+    ]
+  },
+  "Get_Work_Experiences": {
+    "displayName": "Get_Work_Experiences",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Work_Experiences",
+    "properties": [
+      
+    ]
+  },
+  "Put_Contact_Connection": {
+    "displayName": "Put_Contact_Connection",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Contact_Connection",
+    "properties": [
+      
+    ]
+  },
+  "Get_Mentor_Options": {
+    "displayName": "Get_Mentor_Options",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Mentor_Options",
+    "properties": [
+      
+    ]
+  },
+  "Put_Competency": {
+    "displayName": "Put_Competency",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Competency",
+    "properties": [
+      
+    ]
+  },
+  "Get_Competency_Categories": {
+    "displayName": "Get_Competency_Categories",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Competency_Categories",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Internal_Projects": {
+    "displayName": "Manage_Internal_Projects",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Internal_Projects",
+    "properties": [
+      
+    ]
+  },
+  "Put_Professional_Affiliation_Relationship_Type": {
+    "displayName": "Put_Professional_Affiliation_Relationship_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Professional_Affiliation_Relationship_Type",
+    "properties": [
+      
+    ]
+  },
+  "Get_School_Types": {
+    "displayName": "Get_School_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_School_Types",
+    "properties": [
+      
+    ]
+  },
+  "Get_Development_Item_Status": {
+    "displayName": "Get_Development_Item_Status",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Development_Item_Status",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_History_Companies": {
+    "displayName": "Get_Job_History_Companies",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_History_Companies",
+    "properties": [
+      
+    ]
+  },
+  "Put_Competency_Class": {
+    "displayName": "Put_Competency_Class",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Competency_Class",
+    "properties": [
+      
+    ]
+  },
+  "Get_Development_Items": {
+    "displayName": "Get_Development_Items",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Development_Items",
+    "properties": [
+      
+    ]
+  },
+  "Get_Skill_Profile_Categories": {
+    "displayName": "Get_Skill_Profile_Categories",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Skill_Profile_Categories",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Professional_Affiliations": {
+    "displayName": "Manage_Professional_Affiliations",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Professional_Affiliations",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Awards_and_Activities": {
+    "displayName": "Manage_Awards_and_Activities",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Awards_and_Activities",
+    "properties": [
+      
+    ]
+  },
+  "Put_Talent_Statement_Type": {
+    "displayName": "Put_Talent_Statement_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Talent_Statement_Type",
+    "properties": [
+      
+    ]
+  },
+  "Put_Degree": {
+    "displayName": "Put_Degree",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Degree",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Education": {
+    "displayName": "Manage_Education",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Education",
+    "properties": [
+      
+    ]
+  },
+  "Put_Skill_Profile_Category": {
+    "displayName": "Put_Skill_Profile_Category",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Skill_Profile_Category",
+    "properties": [
+      
+    ]
+  },
+  "Put_Mentor_Options": {
+    "displayName": "Put_Mentor_Options",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Mentor_Options",
+    "properties": [
+      
+    ]
+  },
+  "Get_Connection_Types": {
+    "displayName": "Get_Connection_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Connection_Types",
+    "properties": [
+      
+    ]
+  },
+  "Get_Succession_Pools": {
+    "displayName": "Get_Succession_Pools",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Succession_Pools",
+    "properties": [
+      
+    ]
+  },
+  "Get_Contact_Connections": {
+    "displayName": "Get_Contact_Connections",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Contact_Connections",
+    "properties": [
+      
+    ]
+  },
+  "Get_Talent_Review_Onboarding_Setup": {
+    "displayName": "Get_Talent_Review_Onboarding_Setup",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Talent_Review_Onboarding_Setup",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Publications": {
+    "displayName": "Manage_Publications",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Publications",
+    "properties": [
+      
+    ]
+  },
+  "Get_Mentorships": {
+    "displayName": "Get_Mentorships",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Mentorships",
+    "properties": [
+      
+    ]
+  },
+  "Put_Professional_Affiliation": {
+    "displayName": "Put_Professional_Affiliation",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Professional_Affiliation",
+    "properties": [
+      
+    ]
+  },
+  "Assess_Talent": {
+    "displayName": "Assess_Talent",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assess_Talent",
+    "properties": [
+      
+    ]
+  },
+  "Put_Position_for_Succession": {
+    "displayName": "Put_Position_for_Succession",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Position_for_Succession",
+    "properties": [
+      
+    ]
+  },
+  "Put_Development_Item_Category": {
+    "displayName": "Put_Development_Item_Category",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Development_Item_Category",
+    "properties": [
+      
+    ]
+  },
+  "Put_School_Type": {
+    "displayName": "Put_School_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_School_Type",
+    "properties": [
+      
+    ]
+  },
+  "Put_Development_Item": {
+    "displayName": "Put_Development_Item",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Development_Item",
+    "properties": [
+      
+    ]
+  },
+  "Put_Certification": {
+    "displayName": "Put_Certification",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Certification",
+    "properties": [
+      
+    ]
+  },
+  "Get_Proficiency_Rating_Scales": {
+    "displayName": "Get_Proficiency_Rating_Scales",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Proficiency_Rating_Scales",
+    "properties": [
+      
+    ]
+  },
+  "Get_Language_Proficiency_Levels": {
+    "displayName": "Get_Language_Proficiency_Levels",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Language_Proficiency_Levels",
+    "properties": [
+      
+    ]
+  },
+  "Put_Work_Experience": {
+    "displayName": "Put_Work_Experience",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Work_Experience",
+    "properties": [
+      
+    ]
+  },
+  "Get_Specialties": {
+    "displayName": "Get_Specialties",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Specialties",
+    "properties": [
+      
+    ]
+  },
+  "Get_Professional_Affiliations": {
+    "displayName": "Get_Professional_Affiliations",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Professional_Affiliations",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Certifications": {
+    "displayName": "Manage_Certifications",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Certifications",
+    "properties": [
+      
+    ]
+  },
+  "Get_Close_Mentorship_Reasons": {
+    "displayName": "Get_Close_Mentorship_Reasons",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Close_Mentorship_Reasons",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Succession_Plan": {
+    "displayName": "Manage_Succession_Plan",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Succession_Plan",
+    "properties": [
+      
+    ]
+  },
+  "Get_Talent_Pools": {
+    "displayName": "Get_Talent_Pools",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Talent_Pools",
+    "properties": [
+      
+    ]
+  },
+  "Put_Mentorship": {
+    "displayName": "Put_Mentorship",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Mentorship",
+    "properties": [
+      
+    ]
+  },
+  "Get_Languages": {
+    "displayName": "Get_Languages",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Languages",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_History_Company": {
+    "displayName": "Put_Job_History_Company",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_History_Company",
+    "properties": [
+      
+    ]
+  },
+  "Get_Succession_Strategies": {
+    "displayName": "Get_Succession_Strategies",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Succession_Strategies",
+    "properties": [
+      
+    ]
+  },
+  "Get_Certification_Issuers": {
+    "displayName": "Get_Certification_Issuers",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Certification_Issuers",
+    "properties": [
+      
+    ]
+  },
+  "Put_Specialty": {
+    "displayName": "Put_Specialty",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Specialty",
+    "properties": [
+      
+    ]
+  },
+  "Get_Subspecialties": {
+    "displayName": "Get_Subspecialties",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Subspecialties",
+    "properties": [
+      
+    ]
+  },
+  "Get_Competency_Classes": {
+    "displayName": "Get_Competency_Classes",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Competency_Classes",
+    "properties": [
+      
+    ]
+  }
+}

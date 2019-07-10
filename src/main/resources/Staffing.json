@@ -1,0 +1,1003 @@
+{
+  "Get_Positions": {
+    "displayName": "Get_Positions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Positions",
+    "properties": [
+      
+    ]
+  },
+  "Put_Notice_Period_Eligibility_Rule": {
+    "displayName": "Put_Notice_Period_Eligibility_Rule",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Notice_Period_Eligibility_Rule",
+    "properties": [
+      
+    ]
+  },
+  "Move_Workers_By_Organization": {
+    "displayName": "Move_Workers_By_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Move_Workers_By_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Freeze_Position": {
+    "displayName": "Freeze_Position",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Freeze_Position",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Classification_Group": {
+    "displayName": "Put_Job_Classification_Group",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Classification_Group",
+    "properties": [
+      
+    ]
+  },
+  "Put_Hire_Event_Proposed_Worker_ID": {
+    "displayName": "Put_Hire_Event_Proposed_Worker_ID",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Hire_Event_Proposed_Worker_ID",
+    "properties": [
+      
+    ]
+  },
+  "Maintain_Employee_Contracts": {
+    "displayName": "Maintain_Employee_Contracts",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Maintain_Employee_Contracts",
+    "properties": [
+      
+    ]
+  },
+  "Put_Worker_Document": {
+    "displayName": "Put_Worker_Document",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Worker_Document",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Classification_Groups": {
+    "displayName": "Get_Job_Classification_Groups",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Classification_Groups",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Position_Restrictions_Additional_Data": {
+    "displayName": "Edit_Position_Restrictions_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Position_Restrictions_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Get_Citizenship_Statuses": {
+    "displayName": "Get_Citizenship_Statuses",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Citizenship_Statuses",
+    "properties": [
+      
+    ]
+  },
+  "Get_Maintain_Probation_Periods_For_Country": {
+    "displayName": "Get_Maintain_Probation_Periods_For_Country",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Maintain_Probation_Periods_For_Country",
+    "properties": [
+      
+    ]
+  },
+  "End_International_Assignment": {
+    "displayName": "End_International_Assignment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "End_International_Assignment",
+    "properties": [
+      
+    ]
+  },
+  "Put_Probation_Period_Outcomes": {
+    "displayName": "Put_Probation_Period_Outcomes",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Probation_Period_Outcomes",
+    "properties": [
+      
+    ]
+  },
+  "Import_Contract_Contingent_Worker": {
+    "displayName": "Import_Contract_Contingent_Worker",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Contract_Contingent_Worker",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Family_Group": {
+    "displayName": "Put_Job_Family_Group",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Family_Group",
+    "properties": [
+      
+    ]
+  },
+  "Create_Position": {
+    "displayName": "Create_Position",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Create_Position",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Passports_and_Visas": {
+    "displayName": "Get_Change_Passports_and_Visas",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Passports_and_Visas",
+    "properties": [
+      
+    ]
+  },
+  "Set_Hiring_Restrictions": {
+    "displayName": "Set_Hiring_Restrictions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Set_Hiring_Restrictions",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Position_Restrictions": {
+    "displayName": "Edit_Position_Restrictions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Position_Restrictions",
+    "properties": [
+      
+    ]
+  },
+  "Get_Workers": {
+    "displayName": "Get_Workers",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Workers",
+    "properties": [
+      
+    ]
+  },
+  "Get_Probation_Period_Eligibility_Rules": {
+    "displayName": "Get_Probation_Period_Eligibility_Rules",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Probation_Period_Eligibility_Rules",
+    "properties": [
+      
+    ]
+  },
+  "Put_Remove_Matrix_Organization": {
+    "displayName": "Put_Remove_Matrix_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Remove_Matrix_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Hire_Employee_Correct": {
+    "displayName": "Hire_Employee_Correct",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Hire_Employee_Correct",
+    "properties": [
+      
+    ]
+  },
+  "Assign_Organization_Roles": {
+    "displayName": "Assign_Organization_Roles",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assign_Organization_Roles",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Families": {
+    "displayName": "Get_Job_Families",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Families",
+    "properties": [
+      
+    ]
+  },
+  "Get_Notice_Period_Eligibility_Rules": {
+    "displayName": "Get_Notice_Period_Eligibility_Rules",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Notice_Period_Eligibility_Rules",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Position": {
+    "displayName": "Edit_Position",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Position",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Family": {
+    "displayName": "Put_Job_Family",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Family",
+    "properties": [
+      
+    ]
+  },
+  "Put_Student_Employment_Eligibility_Rule_Set": {
+    "displayName": "Put_Student_Employment_Eligibility_Rule_Set",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Student_Employment_Eligibility_Rule_Set",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Legal_Name": {
+    "displayName": "Get_Change_Legal_Name",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Legal_Name",
+    "properties": [
+      
+    ]
+  },
+  "Put_Maintain_Probation_Periods_For_Country": {
+    "displayName": "Put_Maintain_Probation_Periods_For_Country",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Maintain_Probation_Periods_For_Country",
+    "properties": [
+      
+    ]
+  },
+  "Add_Additional_Job": {
+    "displayName": "Add_Additional_Job",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Add_Additional_Job",
+    "properties": [
+      
+    ]
+  },
+  "Assign_Roles": {
+    "displayName": "Assign_Roles",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assign_Roles",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Preferred_Name": {
+    "displayName": "Get_Change_Preferred_Name",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Preferred_Name",
+    "properties": [
+      
+    ]
+  },
+  "Import_Remove_Matrix_Organization": {
+    "displayName": "Import_Remove_Matrix_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Remove_Matrix_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Close_Position": {
+    "displayName": "Close_Position",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Close_Position",
+    "properties": [
+      
+    ]
+  },
+  "Assign_Organization": {
+    "displayName": "Assign_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assign_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Employee_Contract_Additional_Data": {
+    "displayName": "Edit_Employee_Contract_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Employee_Contract_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Delete_Worker_Document": {
+    "displayName": "Delete_Worker_Document",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Delete_Worker_Document",
+    "properties": [
+      
+    ]
+  },
+  "Put_Student_Employment_Eligibility_Rule": {
+    "displayName": "Put_Student_Employment_Eligibility_Rule",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Student_Employment_Eligibility_Rule",
+    "properties": [
+      
+    ]
+  },
+  "Import_Assign_Matrix_Organization": {
+    "displayName": "Import_Assign_Matrix_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Assign_Matrix_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Licenses": {
+    "displayName": "Get_Change_Licenses",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Licenses",
+    "properties": [
+      
+    ]
+  },
+  "Remove_Retiree_Status": {
+    "displayName": "Remove_Retiree_Status",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Remove_Retiree_Status",
+    "properties": [
+      
+    ]
+  },
+  "Get_Student_Employment_Eligibility_Rule_Set": {
+    "displayName": "Get_Student_Employment_Eligibility_Rule_Set",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Student_Employment_Eligibility_Rule_Set",
+    "properties": [
+      
+    ]
+  },
+  "Import_Change_Job": {
+    "displayName": "Import_Change_Job",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Change_Job",
+    "properties": [
+      
+    ]
+  },
+  "Get_Probation_Periods_For_Workers": {
+    "displayName": "Get_Probation_Periods_For_Workers",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Probation_Periods_For_Workers",
+    "properties": [
+      
+    ]
+  },
+  "No_Show": {
+    "displayName": "No_Show",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "No_Show",
+    "properties": [
+      
+    ]
+  },
+  "Put_Citizenship_Status": {
+    "displayName": "Put_Citizenship_Status",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Citizenship_Status",
+    "properties": [
+      
+    ]
+  },
+  "Put_Assign_Matrix_Organization": {
+    "displayName": "Put_Assign_Matrix_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Assign_Matrix_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Put_Student_Employment_Eligibility_Status": {
+    "displayName": "Put_Student_Employment_Eligibility_Status",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Student_Employment_Eligibility_Status",
+    "properties": [
+      
+    ]
+  },
+  "Import_Applicant": {
+    "displayName": "Import_Applicant",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Applicant",
+    "properties": [
+      
+    ]
+  },
+  "Get_Maintain_Notice_Periods_For_Country": {
+    "displayName": "Get_Maintain_Notice_Periods_For_Country",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Maintain_Notice_Periods_For_Country",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Worker_Additional_Data": {
+    "displayName": "Edit_Worker_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Worker_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Get_Student_Employment_Eligibility_Rules": {
+    "displayName": "Get_Student_Employment_Eligibility_Rules",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Student_Employment_Eligibility_Rules",
+    "properties": [
+      
+    ]
+  },
+  "Put_Dependent": {
+    "displayName": "Put_Dependent",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Dependent",
+    "properties": [
+      
+    ]
+  },
+  "Put_Collective_Agreement": {
+    "displayName": "Put_Collective_Agreement",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Collective_Agreement",
+    "properties": [
+      
+    ]
+  },
+  "Terminate_Employee": {
+    "displayName": "Terminate_Employee",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Terminate_Employee",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Hiring_Restrictions": {
+    "displayName": "Edit_Hiring_Restrictions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Hiring_Restrictions",
+    "properties": [
+      
+    ]
+  },
+  "Import_Hire_Employee": {
+    "displayName": "Import_Hire_Employee",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Hire_Employee",
+    "properties": [
+      
+    ]
+  },
+  "End_Additional_Job": {
+    "displayName": "End_Additional_Job",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "End_Additional_Job",
+    "properties": [
+      
+    ]
+  },
+  "Get_Applicants": {
+    "displayName": "Get_Applicants",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Applicants",
+    "properties": [
+      
+    ]
+  },
+  "Put_Probation_Period_Eligibility_Rule": {
+    "displayName": "Put_Probation_Period_Eligibility_Rule",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Probation_Period_Eligibility_Rule",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Family_Groups": {
+    "displayName": "Get_Job_Family_Groups",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Family_Groups",
+    "properties": [
+      
+    ]
+  },
+  "Import_End_Contingent_Worker_Contract": {
+    "displayName": "Import_End_Contingent_Worker_Contract",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_End_Contingent_Worker_Contract",
+    "properties": [
+      
+    ]
+  },
+  "Import_Swap_Positions": {
+    "displayName": "Import_Swap_Positions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Swap_Positions",
+    "properties": [
+      
+    ]
+  },
+  "Import_Terminate_Employee": {
+    "displayName": "Import_Terminate_Employee",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Terminate_Employee",
+    "properties": [
+      
+    ]
+  },
+  "Add_Retiree_Status": {
+    "displayName": "Add_Retiree_Status",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Add_Retiree_Status",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Service_Dates": {
+    "displayName": "Edit_Service_Dates",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Service_Dates",
+    "properties": [
+      
+    ]
+  },
+  "End_Contingent_Worker_Contract": {
+    "displayName": "End_Contingent_Worker_Contract",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "End_Contingent_Worker_Contract",
+    "properties": [
+      
+    ]
+  },
+  "Start_International_Assignment": {
+    "displayName": "Start_International_Assignment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Start_International_Assignment",
+    "properties": [
+      
+    ]
+  },
+  "Get_Role_Assignments_For_Role_Assigners": {
+    "displayName": "Get_Role_Assignments_For_Role_Assigners",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Role_Assignments_For_Role_Assigners",
+    "properties": [
+      
+    ]
+  },
+  "Get_Probation_Period_Outcomes": {
+    "displayName": "Get_Probation_Period_Outcomes",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Probation_Period_Outcomes",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Government_IDs": {
+    "displayName": "Get_Change_Government_IDs",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Government_IDs",
+    "properties": [
+      
+    ]
+  },
+  "Get_Collective_Agreements": {
+    "displayName": "Get_Collective_Agreements",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Collective_Agreements",
+    "properties": [
+      
+    ]
+  },
+  "Put_Edit_Notice_Periods_Event": {
+    "displayName": "Put_Edit_Notice_Periods_Event",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Edit_Notice_Periods_Event",
+    "properties": [
+      
+    ]
+  },
+  "Full-Service_Equivalent_Non-Standard_Worker_Categories": {
+    "displayName": "Full-Service_Equivalent_Non-Standard_Worker_Categories",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Full-Service_Equivalent_Non-Standard_Worker_Categories",
+    "properties": [
+      
+    ]
+  },
+  "Contract_Contingent_Worker": {
+    "displayName": "Contract_Contingent_Worker",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Contract_Contingent_Worker",
+    "properties": [
+      
+    ]
+  },
+  "Get_Organizations": {
+    "displayName": "Get_Organizations",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Organizations",
+    "properties": [
+      
+    ]
+  },
+  "Change_Job": {
+    "displayName": "Change_Job",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Job",
+    "properties": [
+      
+    ]
+  },
+  "Put_Applicant": {
+    "displayName": "Put_Applicant",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Applicant",
+    "properties": [
+      
+    ]
+  },
+  "Hire_Employee": {
+    "displayName": "Hire_Employee",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Hire_Employee",
+    "properties": [
+      
+    ]
+  },
+  "Switch_Primary_Job": {
+    "displayName": "Switch_Primary_Job",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Switch_Primary_Job",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Other_IDs": {
+    "displayName": "Get_Change_Other_IDs",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Other_IDs",
+    "properties": [
+      
+    ]
+  },
+  "Change_Organization_Assignments": {
+    "displayName": "Change_Organization_Assignments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Organization_Assignments",
+    "properties": [
+      
+    ]
+  },
+  "Get_Student_Employment_Eligibility_Data": {
+    "displayName": "Get_Student_Employment_Eligibility_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Student_Employment_Eligibility_Data",
+    "properties": [
+      
+    ]
+  },
+  "Get_Worker_Documents": {
+    "displayName": "Get_Worker_Documents",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Worker_Documents",
+    "properties": [
+      
+    ]
+  },
+  "Get_Notice_Periods": {
+    "displayName": "Get_Notice_Periods",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Notice_Periods",
+    "properties": [
+      
+    ]
+  },
+  "Put_Maintain_Notice_Periods_for_Country": {
+    "displayName": "Put_Maintain_Notice_Periods_for_Country",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Maintain_Notice_Periods_for_Country",
+    "properties": [
+      
+    ]
+  },
+  "Import_External_Student_Information": {
+    "displayName": "Import_External_Student_Information",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_External_Student_Information",
+    "properties": [
+      
+    ]
+  },
+  "Change_Work_Space": {
+    "displayName": "Change_Work_Space",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Work_Space",
+    "properties": [
+      
+    ]
+  }
+}
