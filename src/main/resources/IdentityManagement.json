@@ -1,0 +1,24 @@
+{
+  "Get_Workday_Account_Signons": {
+    "displayName": "Get_Workday_Account_Signons",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Workday_Account_Signons",
+    "properties": [
+      
+    ]
+  },
+  "Get_Unidentified_Signons": {
+    "displayName": "Get_Unidentified_Signons",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Unidentified_Signons",
+    "properties": [
+      
+    ]
+  }
+}
