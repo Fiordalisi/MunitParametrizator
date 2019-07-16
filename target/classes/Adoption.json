@@ -1,0 +1,24 @@
+{
+  "Get_Adoption_Items": {
+    "displayName": "Get_Adoption_Items",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Adoption_Items",
+    "properties": [
+      
+    ]
+  },
+  "Put_Adoption_Item": {
+    "displayName": "Put_Adoption_Item",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Adoption_Item",
+    "properties": [
+      
+    ]
+  }
+}

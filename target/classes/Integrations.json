@@ -1,0 +1,277 @@
+{
+  "Put_Sequence_Generator": {
+    "displayName": "Put_Sequence_Generator",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Sequence_Generator",
+    "properties": [
+      
+    ]
+  },
+  "Get_References": {
+    "displayName": "Get_References",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_References",
+    "properties": [
+      
+    ]
+  },
+  "Get_Integration_Events": {
+    "displayName": "Get_Integration_Events",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Integration_Events",
+    "properties": [
+      
+    ]
+  },
+  "Approve_Business_Process": {
+    "displayName": "Approve_Business_Process",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Approve_Business_Process",
+    "properties": [
+      
+    ]
+  },
+  "Get_Import_Processes": {
+    "displayName": "Get_Import_Processes",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Import_Processes",
+    "properties": [
+      
+    ]
+  },
+  "Get_Event_Detail": {
+    "displayName": "Get_Event_Detail",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Event_Detail",
+    "properties": [
+      
+    ]
+  },
+  "Get_Import_Process_Messages": {
+    "displayName": "Get_Import_Process_Messages",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Import_Process_Messages",
+    "properties": [
+      
+    ]
+  },
+  "Launch_Integration": {
+    "displayName": "Launch_Integration",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Launch_Integration",
+    "properties": [
+      
+    ]
+  },
+  "Put_Reference": {
+    "displayName": "Put_Reference",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Reference",
+    "properties": [
+      
+    ]
+  },
+  "Put_Integration_System": {
+    "displayName": "Put_Integration_System",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Integration_System",
+    "properties": [
+      
+    ]
+  },
+  "Increment_Sequence_Generator": {
+    "displayName": "Increment_Sequence_Generator",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Increment_Sequence_Generator",
+    "properties": [
+      
+    ]
+  },
+  "Get_Sequence_Generators": {
+    "displayName": "Get_Sequence_Generators",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Sequence_Generators",
+    "properties": [
+      
+    ]
+  },
+  "Get_Integration_System_Users": {
+    "displayName": "Get_Integration_System_Users",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Integration_System_Users",
+    "properties": [
+      
+    ]
+  },
+  "Put_Subscription": {
+    "displayName": "Put_Subscription",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Subscription",
+    "properties": [
+      
+    ]
+  },
+  "Cancel_Business_Process": {
+    "displayName": "Cancel_Business_Process",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Cancel_Business_Process",
+    "properties": [
+      
+    ]
+  },
+  "Deny_Business_Process": {
+    "displayName": "Deny_Business_Process",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Deny_Business_Process",
+    "properties": [
+      
+    ]
+  },
+  "Get_Integration_Systems": {
+    "displayName": "Get_Integration_Systems",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Integration_Systems",
+    "properties": [
+      
+    ]
+  },
+  "Get_Event_Documents": {
+    "displayName": "Get_Event_Documents",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Event_Documents",
+    "properties": [
+      
+    ]
+  },
+  "Put_Integration_Event": {
+    "displayName": "Put_Integration_Event",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Integration_Event",
+    "properties": [
+      
+    ]
+  },
+  "Rescind_Business_Process": {
+    "displayName": "Rescind_Business_Process",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Rescind_Business_Process",
+    "properties": [
+      
+    ]
+  },
+  "Launch_EIB": {
+    "displayName": "Launch_EIB",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Launch_EIB",
+    "properties": [
+      
+    ]
+  },
+  "Put_Integration_Message": {
+    "displayName": "Put_Integration_Message",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Integration_Message",
+    "properties": [
+      
+    ]
+  },
+  "Put_Integration_System_User": {
+    "displayName": "Put_Integration_System_User",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Integration_System_User",
+    "properties": [
+      
+    ]
+  },
+  "Get_Subscriptions": {
+    "displayName": "Get_Subscriptions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Subscriptions",
+    "properties": [
+      
+    ]
+  },
+  "Reassign_Business_Process_Step": {
+    "displayName": "Reassign_Business_Process_Step",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Reassign_Business_Process_Step",
+    "properties": [
+      
+    ]
+  }
+}

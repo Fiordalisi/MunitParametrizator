@@ -1,0 +1,2246 @@
+{
+  "Put_Difficulty_to_Fill": {
+    "displayName": "Put_Difficulty_to_Fill",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Difficulty_to_Fill",
+    "properties": [
+      
+    ]
+  },
+  "Get_Academic_Appointee": {
+    "displayName": "Get_Academic_Appointee",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Academic_Appointee",
+    "properties": [
+      
+    ]
+  },
+  "Put_Assign_User-Based_Security_Group": {
+    "displayName": "Put_Assign_User-Based_Security_Group",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Assign_User-Based_Security_Group",
+    "properties": [
+      
+    ]
+  },
+  "Put_Academic_Unit": {
+    "displayName": "Put_Academic_Unit",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Academic_Unit",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Classification_Group": {
+    "displayName": "Put_Job_Classification_Group",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Classification_Group",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Classification_Groups": {
+    "displayName": "Get_Job_Classification_Groups",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Classification_Groups",
+    "properties": [
+      
+    ]
+  },
+  "Add_Academic_Appointment": {
+    "displayName": "Add_Academic_Appointment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Add_Academic_Appointment",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Category": {
+    "displayName": "Put_Job_Category",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Category",
+    "properties": [
+      
+    ]
+  },
+  "Create_Named_Professorship": {
+    "displayName": "Create_Named_Professorship",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Create_Named_Professorship",
+    "properties": [
+      
+    ]
+  },
+  "Get_Contingent_Worker_Contract_Info": {
+    "displayName": "Get_Contingent_Worker_Contract_Info",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Contingent_Worker_Contract_Info",
+    "properties": [
+      
+    ]
+  },
+  "Get_Organizations_Names": {
+    "displayName": "Get_Organizations_Names",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Organizations_Names",
+    "properties": [
+      
+    ]
+  },
+  "Get_Period_Reporting_Calendars": {
+    "displayName": "Get_Period_Reporting_Calendars",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Period_Reporting_Calendars",
+    "properties": [
+      
+    ]
+  },
+  "Put_Location_Attribute": {
+    "displayName": "Put_Location_Attribute",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Location_Attribute",
+    "properties": [
+      
+    ]
+  },
+  "Change_Work_Contact_Information": {
+    "displayName": "Change_Work_Contact_Information",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Work_Contact_Information",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Legal_Name": {
+    "displayName": "Get_Change_Legal_Name",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Legal_Name",
+    "properties": [
+      
+    ]
+  },
+  "Get_Work_Schedule_Calendars": {
+    "displayName": "Get_Work_Schedule_Calendars",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Work_Schedule_Calendars",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Preferred_Name": {
+    "displayName": "Get_Change_Preferred_Name",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Preferred_Name",
+    "properties": [
+      
+    ]
+  },
+  "Change_Other_IDs": {
+    "displayName": "Change_Other_IDs",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Other_IDs",
+    "properties": [
+      
+    ]
+  },
+  "Get_Server_Timestamp": {
+    "displayName": "Get_Server_Timestamp",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Server_Timestamp",
+    "properties": [
+      
+    ]
+  },
+  "Put_Workers_Compensation_Code": {
+    "displayName": "Put_Workers_Compensation_Code",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Workers_Compensation_Code",
+    "properties": [
+      
+    ]
+  },
+  "End_Academic_Appointment": {
+    "displayName": "End_Academic_Appointment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "End_Academic_Appointment",
+    "properties": [
+      
+    ]
+  },
+  "Get_Committee_Definition": {
+    "displayName": "Get_Committee_Definition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Committee_Definition",
+    "properties": [
+      
+    ]
+  },
+  "Get_Work_Schedule_Calendar_Groups": {
+    "displayName": "Get_Work_Schedule_Calendar_Groups",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Work_Schedule_Calendar_Groups",
+    "properties": [
+      
+    ]
+  },
+  "Get_LGBT_Identifications": {
+    "displayName": "Get_LGBT_Identifications",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_LGBT_Identifications",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Licenses": {
+    "displayName": "Get_Change_Licenses",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Licenses",
+    "properties": [
+      
+    ]
+  },
+  "Get_Academic_Unit_Hierarchies": {
+    "displayName": "Get_Academic_Unit_Hierarchies",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Academic_Unit_Hierarchies",
+    "properties": [
+      
+    ]
+  },
+  "Get_Frequencies": {
+    "displayName": "Get_Frequencies",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Frequencies",
+    "properties": [
+      
+    ]
+  },
+  "Put_Social_Benefits_Locality": {
+    "displayName": "Put_Social_Benefits_Locality",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Social_Benefits_Locality",
+    "properties": [
+      
+    ]
+  },
+  "Get_Committee_Types": {
+    "displayName": "Get_Committee_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Committee_Types",
+    "properties": [
+      
+    ]
+  },
+  "Get_Committee_Classification_Groups": {
+    "displayName": "Get_Committee_Classification_Groups",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Committee_Classification_Groups",
+    "properties": [
+      
+    ]
+  },
+  "Get_Company_Insider_Types": {
+    "displayName": "Get_Company_Insider_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Company_Insider_Types",
+    "properties": [
+      
+    ]
+  },
+  "Put_Former_Worker": {
+    "displayName": "Put_Former_Worker",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Former_Worker",
+    "properties": [
+      
+    ]
+  },
+  "Update_Employee_Personal_Info": {
+    "displayName": "Update_Employee_Personal_Info",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Update_Employee_Personal_Info",
+    "properties": [
+      
+    ]
+  },
+  "Put_Political_Affiliation": {
+    "displayName": "Put_Political_Affiliation",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Political_Affiliation",
+    "properties": [
+      
+    ]
+  },
+  "Get_Academic_Ranks": {
+    "displayName": "Get_Academic_Ranks",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Academic_Ranks",
+    "properties": [
+      
+    ]
+  },
+  "Put_External_Form_I-9": {
+    "displayName": "Put_External_Form_I-9",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_External_Form_I-9",
+    "properties": [
+      
+    ]
+  },
+  "Get_Service_Center_Representatives": {
+    "displayName": "Get_Service_Center_Representatives",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Service_Center_Representatives",
+    "properties": [
+      
+    ]
+  },
+  "Get_External_Form_I-9": {
+    "displayName": "Get_External_Form_I-9",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_External_Form_I-9",
+    "properties": [
+      
+    ]
+  },
+  "Put_Service_Center_Representative": {
+    "displayName": "Put_Service_Center_Representative",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Service_Center_Representative",
+    "properties": [
+      
+    ]
+  },
+  "Get_Gender_Identities": {
+    "displayName": "Get_Gender_Identities",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Gender_Identities",
+    "properties": [
+      
+    ]
+  },
+  "Get_Organizations": {
+    "displayName": "Get_Organizations",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Organizations",
+    "properties": [
+      
+    ]
+  },
+  "Add_Update_Organization": {
+    "displayName": "Add_Update_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Add_Update_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Put_LGBT_Identification": {
+    "displayName": "Put_LGBT_Identification",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_LGBT_Identification",
+    "properties": [
+      
+    ]
+  },
+  "Put_Establishment": {
+    "displayName": "Put_Establishment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Establishment",
+    "properties": [
+      
+    ]
+  },
+  "Get_Location_Hierarchy_Organization_Assignments": {
+    "displayName": "Get_Location_Hierarchy_Organization_Assignments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Location_Hierarchy_Organization_Assignments",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Employee_Probation_Periods_Event": {
+    "displayName": "Manage_Employee_Probation_Periods_Event",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Employee_Probation_Periods_Event",
+    "properties": [
+      
+    ]
+  },
+  "Assign_Employee_Collective_Agreement_Event": {
+    "displayName": "Assign_Employee_Collective_Agreement_Event",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assign_Employee_Collective_Agreement_Event",
+    "properties": [
+      
+    ]
+  },
+  "Get_Location_Attributes": {
+    "displayName": "Get_Location_Attributes",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Location_Attributes",
+    "properties": [
+      
+    ]
+  },
+  "Update_Workday_Account": {
+    "displayName": "Update_Workday_Account",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Update_Workday_Account",
+    "properties": [
+      
+    ]
+  },
+  "Get_Contingent_Worker_Personal_Info": {
+    "displayName": "Get_Contingent_Worker_Personal_Info",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Contingent_Worker_Personal_Info",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Profiles": {
+    "displayName": "Get_Job_Profiles",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Profiles",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Passports_and_Visas": {
+    "displayName": "Get_Change_Passports_and_Visas",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Passports_and_Visas",
+    "properties": [
+      
+    ]
+  },
+  "Get_Workers": {
+    "displayName": "Get_Workers",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Workers",
+    "properties": [
+      
+    ]
+  },
+  "Get_Business_Site": {
+    "displayName": "Get_Business_Site",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Business_Site",
+    "properties": [
+      
+    ]
+  },
+  "Get_Organization_Reference_IDs": {
+    "displayName": "Get_Organization_Reference_IDs",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Organization_Reference_IDs",
+    "properties": [
+      
+    ]
+  },
+  "Get_Political_Affiliations": {
+    "displayName": "Get_Political_Affiliations",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Political_Affiliations",
+    "properties": [
+      
+    ]
+  },
+  "Get_Preferred_Communication_Language": {
+    "displayName": "Get_Preferred_Communication_Language",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Preferred_Communication_Language",
+    "properties": [
+      
+    ]
+  },
+  "Put_Academic_Unit_Hierarchy": {
+    "displayName": "Put_Academic_Unit_Hierarchy",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Academic_Unit_Hierarchy",
+    "properties": [
+      
+    ]
+  },
+  "Put_Frequency": {
+    "displayName": "Put_Frequency",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Frequency",
+    "properties": [
+      
+    ]
+  },
+  "Put_Organization_Reference_ID": {
+    "displayName": "Put_Organization_Reference_ID",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Organization_Reference_ID",
+    "properties": [
+      
+    ]
+  },
+  "Create_Reference_Letter_for_Worker": {
+    "displayName": "Create_Reference_Letter_for_Worker",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Create_Reference_Letter_for_Worker",
+    "properties": [
+      
+    ]
+  },
+  "Get_Sort_Order_Enableds": {
+    "displayName": "Get_Sort_Order_Enableds",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Sort_Order_Enableds",
+    "properties": [
+      
+    ]
+  },
+  "Put_Workteam_Membership": {
+    "displayName": "Put_Workteam_Membership",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Workteam_Membership",
+    "properties": [
+      
+    ]
+  },
+  "Change_Emergency_Contacts": {
+    "displayName": "Change_Emergency_Contacts",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Emergency_Contacts",
+    "properties": [
+      
+    ]
+  },
+  "Import_Person_Photos": {
+    "displayName": "Import_Person_Photos",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Person_Photos",
+    "properties": [
+      
+    ]
+  },
+  "Get_Employee_Personal_Info": {
+    "displayName": "Get_Employee_Personal_Info",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Employee_Personal_Info",
+    "properties": [
+      
+    ]
+  },
+  "Get_Safety_Incident_Locations": {
+    "displayName": "Get_Safety_Incident_Locations",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Safety_Incident_Locations",
+    "properties": [
+      
+    ]
+  },
+  "Put_Holiday_Calendar": {
+    "displayName": "Put_Holiday_Calendar",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Holiday_Calendar",
+    "properties": [
+      
+    ]
+  },
+  "Get_Worker_Profile": {
+    "displayName": "Get_Worker_Profile",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Worker_Profile",
+    "properties": [
+      
+    ]
+  },
+  "Get_Sexual_Orientations": {
+    "displayName": "Get_Sexual_Orientations",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Sexual_Orientations",
+    "properties": [
+      
+    ]
+  },
+  "Put_Ethnicity": {
+    "displayName": "Put_Ethnicity",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Ethnicity",
+    "properties": [
+      
+    ]
+  },
+  "Get_Workteams": {
+    "displayName": "Get_Workteams",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Workteams",
+    "properties": [
+      
+    ]
+  },
+  "Get_Workers_Compensation_Codes": {
+    "displayName": "Get_Workers_Compensation_Codes",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Workers_Compensation_Codes",
+    "properties": [
+      
+    ]
+  },
+  "Reactivate_Organization": {
+    "displayName": "Reactivate_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Reactivate_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Put_Safety_Incident_Location": {
+    "displayName": "Put_Safety_Incident_Location",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Safety_Incident_Location",
+    "properties": [
+      
+    ]
+  },
+  "Maintain_Contact_Information": {
+    "displayName": "Maintain_Contact_Information",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Maintain_Contact_Information",
+    "properties": [
+      
+    ]
+  },
+  "Get_Ethnicities": {
+    "displayName": "Get_Ethnicities",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Ethnicities",
+    "properties": [
+      
+    ]
+  },
+  "Put_Organization_Name": {
+    "displayName": "Put_Organization_Name",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Organization_Name",
+    "properties": [
+      
+    ]
+  },
+  "Get_Workday_Account": {
+    "displayName": "Get_Workday_Account",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Workday_Account",
+    "properties": [
+      
+    ]
+  },
+  "Put_Dependent": {
+    "displayName": "Put_Dependent",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Dependent",
+    "properties": [
+      
+    ]
+  },
+  "Put_Supervisory_Organization_Assignment_Restrictions": {
+    "displayName": "Put_Supervisory_Organization_Assignment_Restrictions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Supervisory_Organization_Assignment_Restrictions",
+    "properties": [
+      
+    ]
+  },
+  "Find_Business_Site": {
+    "displayName": "Find_Business_Site",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Find_Business_Site",
+    "properties": [
+      
+    ]
+  },
+  "Change_Licenses": {
+    "displayName": "Change_Licenses",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Licenses",
+    "properties": [
+      
+    ]
+  },
+  "Get_Universal_Identifier": {
+    "displayName": "Get_Universal_Identifier",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Universal_Identifier",
+    "properties": [
+      
+    ]
+  },
+  "Get_Work_Status_Rule_Sets": {
+    "displayName": "Get_Work_Status_Rule_Sets",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Work_Status_Rule_Sets",
+    "properties": [
+      
+    ]
+  },
+  "Update_Academic_Appointment": {
+    "displayName": "Update_Academic_Appointment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Update_Academic_Appointment",
+    "properties": [
+      
+    ]
+  },
+  "Put_Workteam": {
+    "displayName": "Put_Workteam",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Workteam",
+    "properties": [
+      
+    ]
+  },
+  "Get_Person_Photos": {
+    "displayName": "Get_Person_Photos",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Person_Photos",
+    "properties": [
+      
+    ]
+  },
+  "Get_Previous_System_Job_History": {
+    "displayName": "Get_Previous_System_Job_History",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Previous_System_Job_History",
+    "properties": [
+      
+    ]
+  },
+  "Get_Assign_Establishment_Events": {
+    "displayName": "Get_Assign_Establishment_Events",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Assign_Establishment_Events",
+    "properties": [
+      
+    ]
+  },
+  "Get_External_Form_I-9_Section_3": {
+    "displayName": "Get_External_Form_I-9_Section_3",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_External_Form_I-9_Section_3",
+    "properties": [
+      
+    ]
+  },
+  "Add_Workday_Account": {
+    "displayName": "Add_Workday_Account",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Add_Workday_Account",
+    "properties": [
+      
+    ]
+  },
+  "Put_Disability": {
+    "displayName": "Put_Disability",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Disability",
+    "properties": [
+      
+    ]
+  },
+  "Get_External_Disability_Self_Identification_Records": {
+    "displayName": "Get_External_Disability_Self_Identification_Records",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_External_Disability_Self_Identification_Records",
+    "properties": [
+      
+    ]
+  },
+  "Put_Location": {
+    "displayName": "Put_Location",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Location",
+    "properties": [
+      
+    ]
+  },
+  "Get_Worker_Event_History": {
+    "displayName": "Get_Worker_Event_History",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Worker_Event_History",
+    "properties": [
+      
+    ]
+  },
+  "Change_Passports_and_Visas": {
+    "displayName": "Change_Passports_and_Visas",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Passports_and_Visas",
+    "properties": [
+      
+    ]
+  },
+  "Change_Home_Contact_Information": {
+    "displayName": "Change_Home_Contact_Information",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Home_Contact_Information",
+    "properties": [
+      
+    ]
+  },
+  "Get_External_Form_I-9_Source": {
+    "displayName": "Get_External_Form_I-9_Source",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_External_Form_I-9_Source",
+    "properties": [
+      
+    ]
+  },
+  "Change_Government_IDs": {
+    "displayName": "Change_Government_IDs",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Government_IDs",
+    "properties": [
+      
+    ]
+  },
+  "Get_Former_Workers": {
+    "displayName": "Get_Former_Workers",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Former_Workers",
+    "properties": [
+      
+    ]
+  },
+  "Put_Gender_Identity": {
+    "displayName": "Put_Gender_Identity",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Gender_Identity",
+    "properties": [
+      
+    ]
+  },
+  "Put_Committee_Classification": {
+    "displayName": "Put_Committee_Classification",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Committee_Classification",
+    "properties": [
+      
+    ]
+  },
+  "Import_Change_Work_Contact_Information": {
+    "displayName": "Import_Change_Work_Contact_Information",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Change_Work_Contact_Information",
+    "properties": [
+      
+    ]
+  },
+  "Put_Provisioning_Group": {
+    "displayName": "Put_Provisioning_Group",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Provisioning_Group",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Academic_Appointment_Track_Additional_Data": {
+    "displayName": "Edit_Academic_Appointment_Track_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Academic_Appointment_Track_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Get_Provisioning_Groups": {
+    "displayName": "Get_Provisioning_Groups",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Provisioning_Groups",
+    "properties": [
+      
+    ]
+  },
+  "Get_Locations": {
+    "displayName": "Get_Locations",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Locations",
+    "properties": [
+      
+    ]
+  },
+  "Put_Committee_Type": {
+    "displayName": "Put_Committee_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Committee_Type",
+    "properties": [
+      
+    ]
+  },
+  "Get_Appointment_Specialties": {
+    "displayName": "Get_Appointment_Specialties",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Appointment_Specialties",
+    "properties": [
+      
+    ]
+  },
+  "Change_Person_Photo": {
+    "displayName": "Change_Person_Photo",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Person_Photo",
+    "properties": [
+      
+    ]
+  },
+  "Find_Organization": {
+    "displayName": "Find_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Find_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Change_Additional_Names": {
+    "displayName": "Change_Additional_Names",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Additional_Names",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Committee_Membership": {
+    "displayName": "Manage_Committee_Membership",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Committee_Membership",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Families": {
+    "displayName": "Get_Job_Families",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Families",
+    "properties": [
+      
+    ]
+  },
+  "Put_Training_Type": {
+    "displayName": "Put_Training_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Training_Type",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Profile": {
+    "displayName": "Put_Job_Profile",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Profile",
+    "properties": [
+      
+    ]
+  },
+  "Get_Provisioning_Group_Assignments": {
+    "displayName": "Get_Provisioning_Group_Assignments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Provisioning_Group_Assignments",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Veteran_Status_Identification": {
+    "displayName": "Get_Change_Veteran_Status_Identification",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Veteran_Status_Identification",
+    "properties": [
+      
+    ]
+  },
+  "Put_Service_Center_Representative_Workday_Account": {
+    "displayName": "Put_Service_Center_Representative_Workday_Account",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Service_Center_Representative_Workday_Account",
+    "properties": [
+      
+    ]
+  },
+  "Put_Appointment_Specialty": {
+    "displayName": "Put_Appointment_Specialty",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Appointment_Specialty",
+    "properties": [
+      
+    ]
+  },
+  "Get_Holiday_Calendars": {
+    "displayName": "Get_Holiday_Calendars",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Holiday_Calendars",
+    "properties": [
+      
+    ]
+  },
+  "Put_Addresses_for_Country_Format_Extension": {
+    "displayName": "Put_Addresses_for_Country_Format_Extension",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Addresses_for_Country_Format_Extension",
+    "properties": [
+      
+    ]
+  },
+  "Change_Personal_Information": {
+    "displayName": "Change_Personal_Information",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Personal_Information",
+    "properties": [
+      
+    ]
+  },
+  "Put_User-Based_Security_Group_Assignments": {
+    "displayName": "Put_User-Based_Security_Group_Assignments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_User-Based_Security_Group_Assignments",
+    "properties": [
+      
+    ]
+  },
+  "Get_Contingent_Worker": {
+    "displayName": "Get_Contingent_Worker",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Contingent_Worker",
+    "properties": [
+      
+    ]
+  },
+  "Put_Committee_Classification_Group": {
+    "displayName": "Put_Committee_Classification_Group",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Committee_Classification_Group",
+    "properties": [
+      
+    ]
+  },
+  "Put_External_Form_I-9_Section_3": {
+    "displayName": "Put_External_Form_I-9_Section_3",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_External_Form_I-9_Section_3",
+    "properties": [
+      
+    ]
+  },
+  "Change_Legal_Name": {
+    "displayName": "Change_Legal_Name",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Legal_Name",
+    "properties": [
+      
+    ]
+  },
+  "Put_Preferred_Communication_Language": {
+    "displayName": "Put_Preferred_Communication_Language",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Preferred_Communication_Language",
+    "properties": [
+      
+    ]
+  },
+  "Get_Report_Safety_Incident": {
+    "displayName": "Get_Report_Safety_Incident",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Report_Safety_Incident",
+    "properties": [
+      
+    ]
+  },
+  "Get_Employee_Image": {
+    "displayName": "Get_Employee_Image",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Employee_Image",
+    "properties": [
+      
+    ]
+  },
+  "Get_Committee_Meetings": {
+    "displayName": "Get_Committee_Meetings",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Committee_Meetings",
+    "properties": [
+      
+    ]
+  },
+  "Put_Committee_Membership_Type": {
+    "displayName": "Put_Committee_Membership_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Committee_Membership_Type",
+    "properties": [
+      
+    ]
+  },
+  "Put_Period_Reporting_Calendar": {
+    "displayName": "Put_Period_Reporting_Calendar",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Period_Reporting_Calendar",
+    "properties": [
+      
+    ]
+  },
+  "Get_Work_Shifts": {
+    "displayName": "Get_Work_Shifts",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Work_Shifts",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Family_Groups": {
+    "displayName": "Get_Job_Family_Groups",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Family_Groups",
+    "properties": [
+      
+    ]
+  },
+  "Put_External_URL": {
+    "displayName": "Put_External_URL",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_External_URL",
+    "properties": [
+      
+    ]
+  },
+  "Put_Worker_Photo": {
+    "displayName": "Put_Worker_Photo",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Worker_Photo",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Government_IDs": {
+    "displayName": "Get_Change_Government_IDs",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Government_IDs",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Union_Membership": {
+    "displayName": "Manage_Union_Membership",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Union_Membership",
+    "properties": [
+      
+    ]
+  },
+  "End_Collective_Agreement_Assignment": {
+    "displayName": "End_Collective_Agreement_Assignment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "End_Collective_Agreement_Assignment",
+    "properties": [
+      
+    ]
+  },
+  "Put_Work_Schedule_Calendar": {
+    "displayName": "Put_Work_Schedule_Calendar",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Work_Schedule_Calendar",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Other_IDs": {
+    "displayName": "Get_Change_Other_IDs",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Other_IDs",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Home_Contact_Information": {
+    "displayName": "Get_Change_Home_Contact_Information",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Home_Contact_Information",
+    "properties": [
+      
+    ]
+  },
+  "Get_Academic_Appointment_Track_Additional_Data": {
+    "displayName": "Get_Academic_Appointment_Track_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Academic_Appointment_Track_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Change_Business_Title": {
+    "displayName": "Change_Business_Title",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Business_Title",
+    "properties": [
+      
+    ]
+  },
+  "Put_Academic_Rank": {
+    "displayName": "Put_Academic_Rank",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Academic_Rank",
+    "properties": [
+      
+    ]
+  },
+  "Put_External_Form_I-9_Source": {
+    "displayName": "Put_External_Form_I-9_Source",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_External_Form_I-9_Source",
+    "properties": [
+      
+    ]
+  },
+  "Put_Provisioning_Group_Assignment": {
+    "displayName": "Put_Provisioning_Group_Assignment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Provisioning_Group_Assignment",
+    "properties": [
+      
+    ]
+  },
+  "Put_Location_Hierarchy_Organization_Assignments": {
+    "displayName": "Put_Location_Hierarchy_Organization_Assignments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Location_Hierarchy_Organization_Assignments",
+    "properties": [
+      
+    ]
+  },
+  "Get_Academic_Units": {
+    "displayName": "Get_Academic_Units",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Academic_Units",
+    "properties": [
+      
+    ]
+  },
+  "Get_Employee_Related_Persons": {
+    "displayName": "Get_Employee_Related_Persons",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Employee_Related_Persons",
+    "properties": [
+      
+    ]
+  },
+  "Get_Search_Settings": {
+    "displayName": "Get_Search_Settings",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Search_Settings",
+    "properties": [
+      
+    ]
+  },
+  "Put_Committee_Meeting": {
+    "displayName": "Put_Committee_Meeting",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Committee_Meeting",
+    "properties": [
+      
+    ]
+  },
+  "Put_Sexual_Orientation": {
+    "displayName": "Put_Sexual_Orientation",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Sexual_Orientation",
+    "properties": [
+      
+    ]
+  },
+  "Get_Organization": {
+    "displayName": "Get_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Get_Former_Worker_Documents": {
+    "displayName": "Get_Former_Worker_Documents",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Former_Worker_Documents",
+    "properties": [
+      
+    ]
+  },
+  "Put_Former_Worker_Document": {
+    "displayName": "Put_Former_Worker_Document",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Former_Worker_Document",
+    "properties": [
+      
+    ]
+  },
+  "Put_Sort_Order_Enabled": {
+    "displayName": "Put_Sort_Order_Enabled",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Sort_Order_Enabled",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Family_Group": {
+    "displayName": "Put_Job_Family_Group",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Family_Group",
+    "properties": [
+      
+    ]
+  },
+  "Reassign_Superior_to_Inactive_Organization": {
+    "displayName": "Reassign_Superior_to_Inactive_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Reassign_Superior_to_Inactive_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Import_Universal_Identifiers": {
+    "displayName": "Import_Universal_Identifiers",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Universal_Identifiers",
+    "properties": [
+      
+    ]
+  },
+  "Get_Employee": {
+    "displayName": "Get_Employee",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Employee",
+    "properties": [
+      
+    ]
+  },
+  "Report_Safety_Incident": {
+    "displayName": "Report_Safety_Incident",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Report_Safety_Incident",
+    "properties": [
+      
+    ]
+  },
+  "Get_Difficulty_to_Fill": {
+    "displayName": "Get_Difficulty_to_Fill",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Difficulty_to_Fill",
+    "properties": [
+      
+    ]
+  },
+  "Assign_Members_to_Custom_Organization": {
+    "displayName": "Assign_Members_to_Custom_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assign_Members_to_Custom_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Get_Assign_User-Based_Security_Group": {
+    "displayName": "Get_Assign_User-Based_Security_Group",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Assign_User-Based_Security_Group",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Categories": {
+    "displayName": "Get_Job_Categories",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Categories",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Family": {
+    "displayName": "Put_Job_Family",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Family",
+    "properties": [
+      
+    ]
+  },
+  "Get_Supervisory_Organization_Assignment_Restrictions": {
+    "displayName": "Get_Supervisory_Organization_Assignment_Restrictions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Supervisory_Organization_Assignment_Restrictions",
+    "properties": [
+      
+    ]
+  },
+  "Inactivate_Organization": {
+    "displayName": "Inactivate_Organization",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Inactivate_Organization",
+    "properties": [
+      
+    ]
+  },
+  "Get_Pronouns": {
+    "displayName": "Get_Pronouns",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Pronouns",
+    "properties": [
+      
+    ]
+  },
+  "Put_Work_Shift": {
+    "displayName": "Put_Work_Shift",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Work_Shift",
+    "properties": [
+      
+    ]
+  },
+  "Dissolve_Organization_Structure": {
+    "displayName": "Dissolve_Organization_Structure",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Dissolve_Organization_Structure",
+    "properties": [
+      
+    ]
+  },
+  "Get_Establishments": {
+    "displayName": "Get_Establishments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Establishments",
+    "properties": [
+      
+    ]
+  },
+  "Put_Pronoun": {
+    "displayName": "Put_Pronoun",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Pronoun",
+    "properties": [
+      
+    ]
+  },
+  "Get_Worker_Photos": {
+    "displayName": "Get_Worker_Photos",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Worker_Photos",
+    "properties": [
+      
+    ]
+  },
+  "Get_User-Based_Security_Group_Assignments": {
+    "displayName": "Get_User-Based_Security_Group_Assignments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_User-Based_Security_Group_Assignments",
+    "properties": [
+      
+    ]
+  },
+  "Assign_Establishment": {
+    "displayName": "Assign_Establishment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assign_Establishment",
+    "properties": [
+      
+    ]
+  },
+  "Get_Social_Benefits_Localities": {
+    "displayName": "Get_Social_Benefits_Localities",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Social_Benefits_Localities",
+    "properties": [
+      
+    ]
+  },
+  "Put_External_Disability_Self_Identification_Record": {
+    "displayName": "Put_External_Disability_Self_Identification_Record",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_External_Disability_Self_Identification_Record",
+    "properties": [
+      
+    ]
+  },
+  "Get_Training_Types": {
+    "displayName": "Get_Training_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Training_Types",
+    "properties": [
+      
+    ]
+  },
+  "Get_Service_Center_Representative_Workday_Accounts": {
+    "displayName": "Get_Service_Center_Representative_Workday_Accounts",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Service_Center_Representative_Workday_Accounts",
+    "properties": [
+      
+    ]
+  },
+  "Change_Background_Check_Status": {
+    "displayName": "Change_Background_Check_Status",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Background_Check_Status",
+    "properties": [
+      
+    ]
+  },
+  "Put_Previous_System_Job_History": {
+    "displayName": "Put_Previous_System_Job_History",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Previous_System_Job_History",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Named_Professorship": {
+    "displayName": "Edit_Named_Professorship",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Named_Professorship",
+    "properties": [
+      
+    ]
+  },
+  "Get_Employee_Employment_Info": {
+    "displayName": "Get_Employee_Employment_Info",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Employee_Employment_Info",
+    "properties": [
+      
+    ]
+  },
+  "Change_Preferred_Name": {
+    "displayName": "Change_Preferred_Name",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Preferred_Name",
+    "properties": [
+      
+    ]
+  },
+  "Update_Safety_Incident": {
+    "displayName": "Update_Safety_Incident",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Update_Safety_Incident",
+    "properties": [
+      
+    ]
+  },
+  "Put_Work_Status_Rule_Set": {
+    "displayName": "Put_Work_Status_Rule_Set",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Work_Status_Rule_Set",
+    "properties": [
+      
+    ]
+  },
+  "Put_Universal_Identifier": {
+    "displayName": "Put_Universal_Identifier",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Universal_Identifier",
+    "properties": [
+      
+    ]
+  },
+  "Update_Contingent_Worker_Personal_Info": {
+    "displayName": "Update_Contingent_Worker_Personal_Info",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Update_Contingent_Worker_Personal_Info",
+    "properties": [
+      
+    ]
+  },
+  "Change_Veteran_Status_Identification": {
+    "displayName": "Change_Veteran_Status_Identification",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Veteran_Status_Identification",
+    "properties": [
+      
+    ]
+  },
+  "Get_Committee_Classifications": {
+    "displayName": "Get_Committee_Classifications",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Committee_Classifications",
+    "properties": [
+      
+    ]
+  },
+  "Get_Change_Work_Contact_Information": {
+    "displayName": "Get_Change_Work_Contact_Information",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Change_Work_Contact_Information",
+    "properties": [
+      
+    ]
+  },
+  "Update_Employee_Image": {
+    "displayName": "Update_Employee_Image",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Update_Employee_Image",
+    "properties": [
+      
+    ]
+  },
+  "Get_Committee_Membership_Types": {
+    "displayName": "Get_Committee_Membership_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Committee_Membership_Types",
+    "properties": [
+      
+    ]
+  },
+  "Put_Company_Insider_Type": {
+    "displayName": "Put_Company_Insider_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Company_Insider_Type",
+    "properties": [
+      
+    ]
+  },
+  "Put_Search_Settings": {
+    "displayName": "Put_Search_Settings",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Search_Settings",
+    "properties": [
+      
+    ]
+  },
+  "Get_Disabilities": {
+    "displayName": "Get_Disabilities",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Disabilities",
+    "properties": [
+      
+    ]
+  },
+  "Maintain_Committee_Definition": {
+    "displayName": "Maintain_Committee_Definition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Maintain_Committee_Definition",
+    "properties": [
+      
+    ]
+  },
+  "Put_Work_Schedule_Calendar_Group": {
+    "displayName": "Put_Work_Schedule_Calendar_Group",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Work_Schedule_Calendar_Group",
+    "properties": [
+      
+    ]
+  },
+  "Change_Work_Space": {
+    "displayName": "Change_Work_Space",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Change_Work_Space",
+    "properties": [
+      
+    ]
+  }
+}

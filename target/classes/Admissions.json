@@ -1,0 +1,277 @@
+{
+  "Submit_Change_Application_Program_of_Study": {
+    "displayName": "Submit_Change_Application_Program_of_Study",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Submit_Change_Application_Program_of_Study",
+    "properties": [
+      
+    ]
+  },
+  "Get_Admissions_Cohorts": {
+    "displayName": "Get_Admissions_Cohorts",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Admissions_Cohorts",
+    "properties": [
+      
+    ]
+  },
+  "Put_Student_Application_Requirement_Assignment": {
+    "displayName": "Put_Student_Application_Requirement_Assignment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Student_Application_Requirement_Assignment",
+    "properties": [
+      
+    ]
+  },
+  "Get_Student_Application_GPA_Assignment_Values": {
+    "displayName": "Get_Student_Application_GPA_Assignment_Values",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Student_Application_GPA_Assignment_Values",
+    "properties": [
+      
+    ]
+  },
+  "Get_Student_Application_Requirement_Assignments": {
+    "displayName": "Get_Student_Application_Requirement_Assignments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Student_Application_Requirement_Assignments",
+    "properties": [
+      
+    ]
+  },
+  "Put_Admissions_Note": {
+    "displayName": "Put_Admissions_Note",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Admissions_Note",
+    "properties": [
+      
+    ]
+  },
+  "Get_Student_Application_GPA_Eligibility_Rules": {
+    "displayName": "Get_Student_Application_GPA_Eligibility_Rules",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Student_Application_GPA_Eligibility_Rules",
+    "properties": [
+      
+    ]
+  },
+  "Import_External_Student_Transcripts": {
+    "displayName": "Import_External_Student_Transcripts",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_External_Student_Transcripts",
+    "properties": [
+      
+    ]
+  },
+  "Get_Student_Application_Admission_Responses": {
+    "displayName": "Get_Student_Application_Admission_Responses",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Student_Application_Admission_Responses",
+    "properties": [
+      
+    ]
+  },
+  "Submit_Change_Admission_Response": {
+    "displayName": "Submit_Change_Admission_Response",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Submit_Change_Admission_Response",
+    "properties": [
+      
+    ]
+  },
+  "Put_External_Student_Transcript": {
+    "displayName": "Put_External_Student_Transcript",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_External_Student_Transcript",
+    "properties": [
+      
+    ]
+  },
+  "Submit_Change_Application_Anticipated_Start": {
+    "displayName": "Submit_Change_Application_Anticipated_Start",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Submit_Change_Application_Anticipated_Start",
+    "properties": [
+      
+    ]
+  },
+  "Put_Admissions_Cohort": {
+    "displayName": "Put_Admissions_Cohort",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Admissions_Cohort",
+    "properties": [
+      
+    ]
+  },
+  "Put_Student_Application_Admission_Response": {
+    "displayName": "Put_Student_Application_Admission_Response",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Student_Application_Admission_Response",
+    "properties": [
+      
+    ]
+  },
+  "Get_External_Student_Transcripts": {
+    "displayName": "Get_External_Student_Transcripts",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_External_Student_Transcripts",
+    "properties": [
+      
+    ]
+  },
+  "Import_Student_Application_Admission_Decision": {
+    "displayName": "Import_Student_Application_Admission_Decision",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Student_Application_Admission_Decision",
+    "properties": [
+      
+    ]
+  },
+  "Import_Student_Applications": {
+    "displayName": "Import_Student_Applications",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Student_Applications",
+    "properties": [
+      
+    ]
+  },
+  "Import_Student_Application_GPA_Assignment_Values_Request": {
+    "displayName": "Import_Student_Application_GPA_Assignment_Values_Request",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Student_Application_GPA_Assignment_Values_Request",
+    "properties": [
+      
+    ]
+  },
+  "Get_Student_Application_GPAs": {
+    "displayName": "Get_Student_Application_GPAs",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Student_Application_GPAs",
+    "properties": [
+      
+    ]
+  },
+  "Submit_Student_Application_Withdrawal": {
+    "displayName": "Submit_Student_Application_Withdrawal",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Submit_Student_Application_Withdrawal",
+    "properties": [
+      
+    ]
+  },
+  "Put_Student_Application_GPA_Eligibility_Rule": {
+    "displayName": "Put_Student_Application_GPA_Eligibility_Rule",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Student_Application_GPA_Eligibility_Rule",
+    "properties": [
+      
+    ]
+  },
+  "Put_Student_Application_GPA": {
+    "displayName": "Put_Student_Application_GPA",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Student_Application_GPA",
+    "properties": [
+      
+    ]
+  },
+  "Get_Student_Applications": {
+    "displayName": "Get_Student_Applications",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Student_Applications",
+    "properties": [
+      
+    ]
+  },
+  "Put_Student_Application": {
+    "displayName": "Put_Student_Application",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Student_Application",
+    "properties": [
+      
+    ]
+  },
+  "Get_Admissions_Notes": {
+    "displayName": "Get_Admissions_Notes",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Admissions_Notes",
+    "properties": [
+      
+    ]
+  }
+}

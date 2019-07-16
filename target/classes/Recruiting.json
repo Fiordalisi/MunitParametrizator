@@ -1,0 +1,816 @@
+{
+  "Get_Positions": {
+    "displayName": "Get_Positions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Positions",
+    "properties": [
+      
+    ]
+  },
+  "Get_Background_Check": {
+    "displayName": "Get_Background_Check",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Background_Check",
+    "properties": [
+      
+    ]
+  },
+  "Create_Evergreen_Requisition": {
+    "displayName": "Create_Evergreen_Requisition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Create_Evergreen_Requisition",
+    "properties": [
+      
+    ]
+  },
+  "Move_Candidate_to_Linked_Job_Requisition": {
+    "displayName": "Move_Candidate_to_Linked_Job_Requisition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Move_Candidate_to_Linked_Job_Requisition",
+    "properties": [
+      
+    ]
+  },
+  "Get_Candidate_Attachments": {
+    "displayName": "Get_Candidate_Attachments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Candidate_Attachments",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Position_Restrictions_Additional_Data": {
+    "displayName": "Edit_Position_Restrictions_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Position_Restrictions_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Job_Requisition": {
+    "displayName": "Edit_Job_Requisition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Job_Requisition",
+    "properties": [
+      
+    ]
+  },
+  "Manage_Job_Requisition_Freeze": {
+    "displayName": "Manage_Job_Requisition_Freeze",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Manage_Job_Requisition_Freeze",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Posting_Site": {
+    "displayName": "Put_Job_Posting_Site",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Posting_Site",
+    "properties": [
+      
+    ]
+  },
+  "Create_Position": {
+    "displayName": "Create_Position",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Create_Position",
+    "properties": [
+      
+    ]
+  },
+  "Assess_Candidate": {
+    "displayName": "Assess_Candidate",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assess_Candidate",
+    "properties": [
+      
+    ]
+  },
+  "Put_Primary_Posting": {
+    "displayName": "Put_Primary_Posting",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Primary_Posting",
+    "properties": [
+      
+    ]
+  },
+  "Put_Recruiting_Agency": {
+    "displayName": "Put_Recruiting_Agency",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Recruiting_Agency",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Position_Restrictions": {
+    "displayName": "Edit_Position_Restrictions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Position_Restrictions",
+    "properties": [
+      
+    ]
+  },
+  "Get_Interview_Feedbacks": {
+    "displayName": "Get_Interview_Feedbacks",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Interview_Feedbacks",
+    "properties": [
+      
+    ]
+  },
+  "Submit_Recruiting_Agency_Candidate": {
+    "displayName": "Submit_Recruiting_Agency_Candidate",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Submit_Recruiting_Agency_Candidate",
+    "properties": [
+      
+    ]
+  },
+  "Get_Recruiting_Assessment_Category_Security_Segments": {
+    "displayName": "Get_Recruiting_Assessment_Category_Security_Segments",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Recruiting_Assessment_Category_Security_Segments",
+    "properties": [
+      
+    ]
+  },
+  "Put_Maintain_Candidate_List_Assignment": {
+    "displayName": "Put_Maintain_Candidate_List_Assignment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Maintain_Candidate_List_Assignment",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Evergreen_Requisition": {
+    "displayName": "Edit_Evergreen_Requisition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Evergreen_Requisition",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Requisition_Interview_Team": {
+    "displayName": "Put_Job_Requisition_Interview_Team",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Requisition_Interview_Team",
+    "properties": [
+      
+    ]
+  },
+  "Put_Interview_Feedback": {
+    "displayName": "Put_Interview_Feedback",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Interview_Feedback",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Application_Additional_Data": {
+    "displayName": "Get_Job_Application_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Application_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Move_Job_Requisition": {
+    "displayName": "Move_Job_Requisition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Move_Job_Requisition",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Requisitions": {
+    "displayName": "Get_Job_Requisitions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Requisitions",
+    "properties": [
+      
+    ]
+  },
+  "Get_Candidate_Photos": {
+    "displayName": "Get_Candidate_Photos",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Candidate_Photos",
+    "properties": [
+      
+    ]
+  },
+  "Get_Server_Timestamp": {
+    "displayName": "Get_Server_Timestamp",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Server_Timestamp",
+    "properties": [
+      
+    ]
+  },
+  "Get_Maintain_Candidate_List_Assignment": {
+    "displayName": "Get_Maintain_Candidate_List_Assignment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Maintain_Candidate_List_Assignment",
+    "properties": [
+      
+    ]
+  },
+  "Get_Recruiting_Agency_Additional_Data": {
+    "displayName": "Get_Recruiting_Agency_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Recruiting_Agency_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Get_Assign_Recruiting_Self-Schedule_Calendars": {
+    "displayName": "Get_Assign_Recruiting_Self-Schedule_Calendars",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Assign_Recruiting_Self-Schedule_Calendars",
+    "properties": [
+      
+    ]
+  },
+  "Move_Candidate": {
+    "displayName": "Move_Candidate",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Move_Candidate",
+    "properties": [
+      
+    ]
+  },
+  "Put_Veteran_Status": {
+    "displayName": "Put_Veteran_Status",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Veteran_Status",
+    "properties": [
+      
+    ]
+  },
+  "Update_Job_Posting": {
+    "displayName": "Update_Job_Posting",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Update_Job_Posting",
+    "properties": [
+      
+    ]
+  },
+  "Offer": {
+    "displayName": "Offer",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Offer",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Posting_Sites": {
+    "displayName": "Get_Job_Posting_Sites",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Posting_Sites",
+    "properties": [
+      
+    ]
+  },
+  "Get_Recruiting_Agency_Users": {
+    "displayName": "Get_Recruiting_Agency_Users",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Recruiting_Agency_Users",
+    "properties": [
+      
+    ]
+  },
+  "Put_Recruiting_Agency_User": {
+    "displayName": "Put_Recruiting_Agency_User",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Recruiting_Agency_User",
+    "properties": [
+      
+    ]
+  },
+  "Get_Recruiting_Assessment_Categories": {
+    "displayName": "Get_Recruiting_Assessment_Categories",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Recruiting_Assessment_Categories",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Requisition_Interview_Teams": {
+    "displayName": "Get_Job_Requisition_Interview_Teams",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Requisition_Interview_Teams",
+    "properties": [
+      
+    ]
+  },
+  "Get_Recruiting_Self-Schedule_Calendar_Types": {
+    "displayName": "Get_Recruiting_Self-Schedule_Calendar_Types",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Recruiting_Self-Schedule_Calendar_Types",
+    "properties": [
+      
+    ]
+  },
+  "Put_Recruiting_Assessment_Category": {
+    "displayName": "Put_Recruiting_Assessment_Category",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Recruiting_Assessment_Category",
+    "properties": [
+      
+    ]
+  },
+  "Create_Job_Requisition": {
+    "displayName": "Create_Job_Requisition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Create_Job_Requisition",
+    "properties": [
+      
+    ]
+  },
+  "Close_Evergreen_Requisition": {
+    "displayName": "Close_Evergreen_Requisition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Close_Evergreen_Requisition",
+    "properties": [
+      
+    ]
+  },
+  "Put_Candidate_Attachment": {
+    "displayName": "Put_Candidate_Attachment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Candidate_Attachment",
+    "properties": [
+      
+    ]
+  },
+  "Put_Candidate_Photo": {
+    "displayName": "Put_Candidate_Photo",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Candidate_Photo",
+    "properties": [
+      
+    ]
+  },
+  "Assign_Recruiting_Self-Schedule_Calendar": {
+    "displayName": "Assign_Recruiting_Self-Schedule_Calendar",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Assign_Recruiting_Self-Schedule_Calendar",
+    "properties": [
+      
+    ]
+  },
+  "Put_Recruiting_Self-Schedule_Calendar_Type": {
+    "displayName": "Put_Recruiting_Self-Schedule_Calendar_Type",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Recruiting_Self-Schedule_Calendar_Type",
+    "properties": [
+      
+    ]
+  },
+  "Import_Applicant": {
+    "displayName": "Import_Applicant",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Import_Applicant",
+    "properties": [
+      
+    ]
+  },
+  "Put_Recruiting_Agency_Additional_Data": {
+    "displayName": "Put_Recruiting_Agency_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Recruiting_Agency_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Unpost_Job": {
+    "displayName": "Unpost_Job",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Unpost_Job",
+    "properties": [
+      
+    ]
+  },
+  "Put_Candidate": {
+    "displayName": "Put_Candidate",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Candidate",
+    "properties": [
+      
+    ]
+  },
+  "Get_Interviews": {
+    "displayName": "Get_Interviews",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Interviews",
+    "properties": [
+      
+    ]
+  },
+  "Get_Candidates": {
+    "displayName": "Get_Candidates",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Candidates",
+    "properties": [
+      
+    ]
+  },
+  "Get_Applicants": {
+    "displayName": "Get_Applicants",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Applicants",
+    "properties": [
+      
+    ]
+  },
+  "Get_Recruiting_Self-Schedule_Calendars": {
+    "displayName": "Get_Recruiting_Self-Schedule_Calendars",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Recruiting_Self-Schedule_Calendars",
+    "properties": [
+      
+    ]
+  },
+  "Put_Interview": {
+    "displayName": "Put_Interview",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Interview",
+    "properties": [
+      
+    ]
+  },
+  "Get_Background_Check_Packages": {
+    "displayName": "Get_Background_Check_Packages",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Background_Check_Packages",
+    "properties": [
+      
+    ]
+  },
+  "Put_Background_Check_Package": {
+    "displayName": "Put_Background_Check_Package",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Background_Check_Package",
+    "properties": [
+      
+    ]
+  },
+  "Post_Job": {
+    "displayName": "Post_Job",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Post_Job",
+    "properties": [
+      
+    ]
+  },
+  "Put_Undo_Move_from_Hire": {
+    "displayName": "Put_Undo_Move_from_Hire",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Undo_Move_from_Hire",
+    "properties": [
+      
+    ]
+  },
+  "Get_Veteran_Statuses": {
+    "displayName": "Get_Veteran_Statuses",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Veteran_Statuses",
+    "properties": [
+      
+    ]
+  },
+  "Get_Evergreen_Requisitions": {
+    "displayName": "Get_Evergreen_Requisitions",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Evergreen_Requisitions",
+    "properties": [
+      
+    ]
+  },
+  "Get_Recruiting_Agencies": {
+    "displayName": "Get_Recruiting_Agencies",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Recruiting_Agencies",
+    "properties": [
+      
+    ]
+  },
+  "Get_Assess_Candidate": {
+    "displayName": "Get_Assess_Candidate",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Assess_Candidate",
+    "properties": [
+      
+    ]
+  },
+  "Get_Organizations": {
+    "displayName": "Get_Organizations",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Organizations",
+    "properties": [
+      
+    ]
+  },
+  "Edit_Job_Requisition_Additional_Data": {
+    "displayName": "Edit_Job_Requisition_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Edit_Job_Requisition_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Put_Recruiting_Assessment_Category_Security_Segment": {
+    "displayName": "Put_Recruiting_Assessment_Category_Security_Segment",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Recruiting_Assessment_Category_Security_Segment",
+    "properties": [
+      
+    ]
+  },
+  "Get_Job_Postings": {
+    "displayName": "Get_Job_Postings",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Get_Job_Postings",
+    "properties": [
+      
+    ]
+  },
+  "Put_Recruiting_Self-Schedule_Calendar": {
+    "displayName": "Put_Recruiting_Self-Schedule_Calendar",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Recruiting_Self-Schedule_Calendar",
+    "properties": [
+      
+    ]
+  },
+  "Put_Applicant": {
+    "displayName": "Put_Applicant",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Applicant",
+    "properties": [
+      
+    ]
+  },
+  "Refer_a_Candidate": {
+    "displayName": "Refer_a_Candidate",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Refer_a_Candidate",
+    "properties": [
+      
+    ]
+  },
+  "Move_Candidate_to_Linked_Evergreen_Requisition": {
+    "displayName": "Move_Candidate_to_Linked_Evergreen_Requisition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Move_Candidate_to_Linked_Evergreen_Requisition",
+    "properties": [
+      
+    ]
+  },
+  "Put_Job_Application_Additional_Data": {
+    "displayName": "Put_Job_Application_Additional_Data",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Job_Application_Additional_Data",
+    "properties": [
+      
+    ]
+  },
+  "Put_Background_Check": {
+    "displayName": "Put_Background_Check",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Put_Background_Check",
+    "properties": [
+      
+    ]
+  },
+  "Close_Job_Requisition": {
+    "displayName": "Close_Job_Requisition",
+    "childs": {
+      
+    },
+    "partName": "operation",
+    "id": "Close_Job_Requisition",
+    "properties": [
+      
+    ]
+  }
+}
