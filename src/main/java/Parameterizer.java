@@ -1,4 +1,3 @@
-import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -7,7 +6,7 @@ import org.apache.commons.io.IOUtils;
 import java.io.FileInputStream;
 
 
-public class Workday {
+public class Parameterizer {
 
     public static final String WORKDAY = "(\"displayName\":) (\\w*.*),";
     public static final String COMPOSITE = "(\"id\":) (\\w*.*),\n";
@@ -44,8 +43,7 @@ public class Workday {
 
     public static void main(String[] args) throws IOException {
             // PUT THE FILE NAME OF THE KEYS
-            Workday.getParametrization("IdentityManagement.json", WORKDAY);
-//        Workday.generateExclude();
+            Parameterizer.getParametrization("IdentityManagement.json", WORKDAY);
 
     }
 }
