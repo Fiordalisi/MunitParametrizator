@@ -1,0 +1,6107 @@
+{
+  "ProcessInstanceNode": {
+    "displayName": "Process Instance Node",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ProcessInstanceNode",
+    "properties": [
+      
+    ]
+  },
+  "ApexTestResult": {
+    "displayName": "Apex Test Result",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexTestResult",
+    "properties": [
+      
+    ]
+  },
+  "ReportEventStream": {
+    "displayName": "Report Event Stream",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ReportEventStream",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject1__ChangeEvent": {
+    "displayName": "Change Event: some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject1__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "ApexTestResultLimits": {
+    "displayName": "Apex Test Result Limit",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexTestResultLimits",
+    "properties": [
+      
+    ]
+  },
+  "AuthSession": {
+    "displayName": "Auth Session",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AuthSession",
+    "properties": [
+      
+    ]
+  },
+  "UserProvAccountStaging": {
+    "displayName": "User Provisioning Account Staging",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserProvAccountStaging",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject4__c": {
+    "displayName": "some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject4__c",
+    "properties": [
+      
+    ]
+  },
+  "ProcessInstanceWorkitem": {
+    "displayName": "Approval Request",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ProcessInstanceWorkitem",
+    "properties": [
+      
+    ]
+  },
+  "AssetChangeEvent": {
+    "displayName": "Asset Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AssetChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "SiteDetail": {
+    "displayName": "Site Detail",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SiteDetail",
+    "properties": [
+      
+    ]
+  },
+  "SOSSessionHistory": {
+    "displayName": "SOS Session History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SOSSessionHistory",
+    "properties": [
+      
+    ]
+  },
+  "CaseFeed": {
+    "displayName": "Case Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseFeed",
+    "properties": [
+      
+    ]
+  },
+  "TestSuiteMembership": {
+    "displayName": "Test Suite Membership",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TestSuiteMembership",
+    "properties": [
+      
+    ]
+  },
+  "Approval": {
+    "displayName": "Approval",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Approval",
+    "properties": [
+      
+    ]
+  },
+  "EntityParticle": {
+    "displayName": "Entity Particle",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EntityParticle",
+    "properties": [
+      
+    ]
+  },
+  "StreamingChannel": {
+    "displayName": "Streaming Channel",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "StreamingChannel",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_584_fullname__ChangeEvent": {
+    "displayName": "Change Event: 13ec",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_584_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "AssignmentRule": {
+    "displayName": "Assignment Rule",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AssignmentRule",
+    "properties": [
+      
+    ]
+  },
+  "ApiEventStream": {
+    "displayName": "API Event Stream",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApiEventStream",
+    "properties": [
+      
+    ]
+  },
+  "PricebookEntry": {
+    "displayName": "Price Book Entry",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PricebookEntry",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrderr__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrderr__c",
+    "properties": [
+      
+    ]
+  },
+  "Note": {
+    "displayName": "Note",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Note",
+    "properties": [
+      
+    ]
+  },
+  "Product2History": {
+    "displayName": "Product History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Product2History",
+    "properties": [
+      
+    ]
+  },
+  "OrderChangeEvent": {
+    "displayName": "Order Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrderChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "GroupMember": {
+    "displayName": "Group Member",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "GroupMember",
+    "properties": [
+      
+    ]
+  },
+  "LeadHistory": {
+    "displayName": "Lead History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LeadHistory",
+    "properties": [
+      
+    ]
+  },
+  "SOSSessionShare": {
+    "displayName": "SOS Session Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SOSSessionShare",
+    "properties": [
+      
+    ]
+  },
+  "LightningExperienceTheme": {
+    "displayName": "Lightning Experience Theme",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LightningExperienceTheme",
+    "properties": [
+      
+    ]
+  },
+  "ContentVersion": {
+    "displayName": "Content Version",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentVersion",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder_wer4243__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder_wer4243__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "MacroHistory": {
+    "displayName": "Macro History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "MacroHistory",
+    "properties": [
+      
+    ]
+  },
+  "DataType": {
+    "displayName": "Data Type",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DataType",
+    "properties": [
+      
+    ]
+  },
+  "Process_Transaction_Log__ChangeEvent": {
+    "displayName": "Change Event: Process_Transaction_Log",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Process_Transaction_Log__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "AuraDefinitionBundle": {
+    "displayName": "Aura Component Bundle",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AuraDefinitionBundle",
+    "properties": [
+      
+    ]
+  },
+  "QuickText": {
+    "displayName": "Quick Text",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "QuickText",
+    "properties": [
+      
+    ]
+  },
+  "ObjectPermissions": {
+    "displayName": "Object Permissions",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ObjectPermissions",
+    "properties": [
+      
+    ]
+  },
+  "DatacloudOwnedEntity": {
+    "displayName": "Data.com Owned Entity",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DatacloudOwnedEntity",
+    "properties": [
+      
+    ]
+  },
+  "ListEmailRecipientSource": {
+    "displayName": "List Email Recipient Source",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ListEmailRecipientSource",
+    "properties": [
+      
+    ]
+  },
+  "Publisher": {
+    "displayName": "Publisher",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Publisher",
+    "properties": [
+      
+    ]
+  },
+  "CollaborationGroupMemberRequest": {
+    "displayName": "Group Member Request",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CollaborationGroupMemberRequest",
+    "properties": [
+      
+    ]
+  },
+  "CaseTeamTemplateMember": {
+    "displayName": "Predefined Case Team Member",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseTeamTemplateMember",
+    "properties": [
+      
+    ]
+  },
+  "ContactFeed": {
+    "displayName": "Contact Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContactFeed",
+    "properties": [
+      
+    ]
+  },
+  "TenantSecret": {
+    "displayName": "Tenant Secret",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TenantSecret",
+    "properties": [
+      
+    ]
+  },
+  "SetupAuditTrail": {
+    "displayName": "Setup Audit Trail Entry",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SetupAuditTrail",
+    "properties": [
+      
+    ]
+  },
+  "ContentDocumentFeed": {
+    "displayName": "ContentDocument Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentDocumentFeed",
+    "properties": [
+      
+    ]
+  },
+  "ApexTestSuite": {
+    "displayName": "Apex Test Suite",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexTestSuite",
+    "properties": [
+      
+    ]
+  },
+  "Orden__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Orden__c",
+    "properties": [
+      
+    ]
+  },
+  "SessionPermSetActivation": {
+    "displayName": "Session Permission Set Activation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SessionPermSetActivation",
+    "properties": [
+      
+    ]
+  },
+  "ListEmail": {
+    "displayName": "List Email",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ListEmail",
+    "properties": [
+      
+    ]
+  },
+  "Holiday": {
+    "displayName": "Holiday",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Holiday",
+    "properties": [
+      
+    ]
+  },
+  "adysanta__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "adysanta__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "UserPackageLicense": {
+    "displayName": "User Package License",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserPackageLicense",
+    "properties": [
+      
+    ]
+  },
+  "ApexComponent": {
+    "displayName": "Visualforce Component",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexComponent",
+    "properties": [
+      
+    ]
+  },
+  "NamedCredential": {
+    "displayName": "Named Credential",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "NamedCredential",
+    "properties": [
+      
+    ]
+  },
+  "WorkOrderLineItem": {
+    "displayName": "Work Order Line Item",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WorkOrderLineItem",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject10__c": {
+    "displayName": "some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject10__c",
+    "properties": [
+      
+    ]
+  },
+  "TopicUserEvent": {
+    "displayName": "Topic User Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TopicUserEvent",
+    "properties": [
+      
+    ]
+  },
+  "DatasetExportEvent": {
+    "displayName": "Dataset Export Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DatasetExportEvent",
+    "properties": [
+      
+    ]
+  },
+  "SetupEntityAccess": {
+    "displayName": "Setup Entity Access",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SetupEntityAccess",
+    "properties": [
+      
+    ]
+  },
+  "FlexQueueItem": {
+    "displayName": "Flex Queue Item",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FlexQueueItem",
+    "properties": [
+      
+    ]
+  },
+  "Attachment": {
+    "displayName": "Attachment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Attachment",
+    "properties": [
+      
+    ]
+  },
+  "Testing__Feed": {
+    "displayName": "Feed: Testing",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Testing__Feed",
+    "properties": [
+      
+    ]
+  },
+  "ae6709_fullname__c": {
+    "displayName": "65b2",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ae6709_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "ListView": {
+    "displayName": "List View",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ListView",
+    "properties": [
+      
+    ]
+  },
+  "ContentNotification": {
+    "displayName": "Content Notification",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentNotification",
+    "properties": [
+      
+    ]
+  },
+  "CaseTeamMember": {
+    "displayName": "Case Team Member",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseTeamMember",
+    "properties": [
+      
+    ]
+  },
+  "FiscalYearSettings": {
+    "displayName": "Fiscal Year Settings",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FiscalYearSettings",
+    "properties": [
+      
+    ]
+  },
+  "FeedComment": {
+    "displayName": "Feed Comment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FeedComment",
+    "properties": [
+      
+    ]
+  },
+  "LightningUsageByBrowserMetrics": {
+    "displayName": "LightningUsageByBrowserMetrics",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LightningUsageByBrowserMetrics",
+    "properties": [
+      
+    ]
+  },
+  "ContentWorkspacePermission": {
+    "displayName": "Library Permission",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentWorkspacePermission",
+    "properties": [
+      
+    ]
+  },
+  "UserLogin": {
+    "displayName": "User Login",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserLogin",
+    "properties": [
+      
+    ]
+  },
+  "ContentHubRepository": {
+    "displayName": "Files Connect repository",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentHubRepository",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder_wer4243__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder_wer4243__c",
+    "properties": [
+      
+    ]
+  },
+  "WaveAutoInstallRequest": {
+    "displayName": "Wave Auto Install Request",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WaveAutoInstallRequest",
+    "properties": [
+      
+    ]
+  },
+  "se10375__c": {
+    "displayName": "se10375",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "se10375__c",
+    "properties": [
+      
+    ]
+  },
+  "af49b9_fullname__ChangeEvent": {
+    "displayName": "Change Event: 681d",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "af49b9_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "CaseShare": {
+    "displayName": "Case Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseShare",
+    "properties": [
+      
+    ]
+  },
+  "AdditionalNumber": {
+    "displayName": "Additional Directory Number",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AdditionalNumber",
+    "properties": [
+      
+    ]
+  },
+  "RecentlyViewed": {
+    "displayName": "Recently Viewed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RecentlyViewed",
+    "properties": [
+      
+    ]
+  },
+  "OrgWideEmailAddress": {
+    "displayName": "Organization-wide From Email Address",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrgWideEmailAddress",
+    "properties": [
+      
+    ]
+  },
+  "ProcessInstance": {
+    "displayName": "Process Instance",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ProcessInstance",
+    "properties": [
+      
+    ]
+  },
+  "PartnerRole": {
+    "displayName": "Partner Role Value",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PartnerRole",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject6__c": {
+    "displayName": "some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject6__c",
+    "properties": [
+      
+    ]
+  },
+  "b1b4f_fullname__c": {
+    "displayName": "c25e",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "b1b4f_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "ContentDistribution": {
+    "displayName": "Content Delivery",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentDistribution",
+    "properties": [
+      
+    ]
+  },
+  "ContactRequest": {
+    "displayName": "Contact Request",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContactRequest",
+    "properties": [
+      
+    ]
+  },
+  "IndividualShare": {
+    "displayName": "Individual Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "IndividualShare",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityFieldHistory": {
+    "displayName": "Opportunity Field History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityFieldHistory",
+    "properties": [
+      
+    ]
+  },
+  "DatacloudContact": {
+    "displayName": "Data.com Contact",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DatacloudContact",
+    "properties": [
+      
+    ]
+  },
+  "Process_Event_Log__c": {
+    "displayName": "Process_Event_Log",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Process_Event_Log__c",
+    "properties": [
+      
+    ]
+  },
+  "PermissionSetLicenseAssign": {
+    "displayName": "Permission Set License Assignment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PermissionSetLicenseAssign",
+    "properties": [
+      
+    ]
+  },
+  "BackgroundOperation": {
+    "displayName": "Background Operation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "BackgroundOperation",
+    "properties": [
+      
+    ]
+  },
+  "ApiEvent": {
+    "displayName": "API Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApiEvent",
+    "properties": [
+      
+    ]
+  },
+  "ProcessInstanceStep": {
+    "displayName": "Process Instance Step",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ProcessInstanceStep",
+    "properties": [
+      
+    ]
+  },
+  "Opportunity": {
+    "displayName": "Opportunity",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Opportunity",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_fullname__ChangeEvent": {
+    "displayName": "Change Event: 28a7",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "EmailRelay": {
+    "displayName": "Email Relay",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailRelay",
+    "properties": [
+      
+    ]
+  },
+  "metadataObjectAndrei__ChangeEvent": {
+    "displayName": "Change Event: Metadata Object",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "metadataObjectAndrei__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "ApexTrigger": {
+    "displayName": "Apex Trigger",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexTrigger",
+    "properties": [
+      
+    ]
+  },
+  "OauthToken": {
+    "displayName": "Oauth Token",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OauthToken",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrderQ__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrderQ__c",
+    "properties": [
+      
+    ]
+  },
+  "StreamingChannelShare": {
+    "displayName": "Streaming Channel Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "StreamingChannelShare",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder__c",
+    "properties": [
+      
+    ]
+  },
+  "Report": {
+    "displayName": "Report",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Report",
+    "properties": [
+      
+    ]
+  },
+  "BusinessHours": {
+    "displayName": "Business Hours",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "BusinessHours",
+    "properties": [
+      
+    ]
+  },
+  "StaticResource": {
+    "displayName": "Static Resource",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "StaticResource",
+    "properties": [
+      
+    ]
+  },
+  "CustomBrandAsset": {
+    "displayName": "Custom Brand Asset",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomBrandAsset",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject10__ChangeEvent": {
+    "displayName": "Change Event: some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject10__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "ContactHistory": {
+    "displayName": "Contact History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContactHistory",
+    "properties": [
+      
+    ]
+  },
+  "SearchLayout": {
+    "displayName": "Search Layout",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SearchLayout",
+    "properties": [
+      
+    ]
+  },
+  "UserPermissionAccess": {
+    "displayName": "User Permission Access",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserPermissionAccess",
+    "properties": [
+      
+    ]
+  },
+  "Test4__c": {
+    "displayName": "Test4",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Test4__c",
+    "properties": [
+      
+    ]
+  },
+  "ContentDocument": {
+    "displayName": "Content Document",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentDocument",
+    "properties": [
+      
+    ]
+  },
+  "testAttach__c": {
+    "displayName": "testAttach",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "testAttach__c",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder1__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder1__c",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityLineItemSchedule": {
+    "displayName": "Line Item Schedule",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityLineItemSchedule",
+    "properties": [
+      
+    ]
+  },
+  "AssetHistory": {
+    "displayName": "Asset History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AssetHistory",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityPartner": {
+    "displayName": "Opportunity Partner",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityPartner",
+    "properties": [
+      
+    ]
+  },
+  "DatacloudPurchaseUsage": {
+    "displayName": "Data.com Usage",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DatacloudPurchaseUsage",
+    "properties": [
+      
+    ]
+  },
+  "ApexTestRunResult": {
+    "displayName": "Apex Test Run Result",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexTestRunResult",
+    "properties": [
+      
+    ]
+  },
+  "OutgoingEmail": {
+    "displayName": "Outgoing Email",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OutgoingEmail",
+    "properties": [
+      
+    ]
+  },
+  "BrandingSet": {
+    "displayName": "Branding Set",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "BrandingSet",
+    "properties": [
+      
+    ]
+  },
+  "UserRole": {
+    "displayName": "Role",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserRole",
+    "properties": [
+      
+    ]
+  },
+  "WorkOrderFeed": {
+    "displayName": "Work Order Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WorkOrderFeed",
+    "properties": [
+      
+    ]
+  },
+  "ContentWorkspaceSubscription": {
+    "displayName": "Content Workspace Subscription",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentWorkspaceSubscription",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_6ce_fullname__c": {
+    "displayName": "74ee",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_6ce_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "ReportFeed": {
+    "displayName": "Report Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ReportFeed",
+    "properties": [
+      
+    ]
+  },
+  "OpenActivity": {
+    "displayName": "Open Activity",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpenActivity",
+    "properties": [
+      
+    ]
+  },
+  "Community": {
+    "displayName": "Zone",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Community",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject4__ChangeEvent": {
+    "displayName": "Change Event: some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject4__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "BusinessProcess": {
+    "displayName": "Business Process",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "BusinessProcess",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_30a_fullname__ChangeEvent": {
+    "displayName": "Change Event: 1d23",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_30a_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "EmailStatus": {
+    "displayName": "Email Status",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailStatus",
+    "properties": [
+      
+    ]
+  },
+  "FeedAttachment": {
+    "displayName": "Feed Attachment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FeedAttachment",
+    "properties": [
+      
+    ]
+  },
+  "AuthConfig": {
+    "displayName": "Authentication Configuration",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AuthConfig",
+    "properties": [
+      
+    ]
+  },
+  "UserEntityAccess": {
+    "displayName": "User Entity Access",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserEntityAccess",
+    "properties": [
+      
+    ]
+  },
+  "ListViewChartInstance": {
+    "displayName": "List View Chart Instance",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ListViewChartInstance",
+    "properties": [
+      
+    ]
+  },
+  "OrgDeleteRequestShare": {
+    "displayName": "Org Delete Request Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrgDeleteRequestShare",
+    "properties": [
+      
+    ]
+  },
+  "WorkOrder": {
+    "displayName": "Work Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WorkOrder",
+    "properties": [
+      
+    ]
+  },
+  "RelationshipInfo": {
+    "displayName": "Relationship",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RelationshipInfo",
+    "properties": [
+      
+    ]
+  },
+  "ClientBrowser": {
+    "displayName": "Client Browser",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ClientBrowser",
+    "properties": [
+      
+    ]
+  },
+  "Asset": {
+    "displayName": "Asset",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Asset",
+    "properties": [
+      
+    ]
+  },
+  "UserPreference": {
+    "displayName": "User Preference",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserPreference",
+    "properties": [
+      
+    ]
+  },
+  "CampaignMember": {
+    "displayName": "Campaign Member",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CampaignMember",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_aaa_fullname__ChangeEvent": {
+    "displayName": "Change Event: 0e35",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_aaa_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "AccountContactRole": {
+    "displayName": "Account Contact Role",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AccountContactRole",
+    "properties": [
+      
+    ]
+  },
+  "Process_Transaction_Log__c": {
+    "displayName": "Process_Transaction_Log",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Process_Transaction_Log__c",
+    "properties": [
+      
+    ]
+  },
+  "Pricebook2": {
+    "displayName": "Price Book",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Pricebook2",
+    "properties": [
+      
+    ]
+  },
+  "OrderItemChangeEvent": {
+    "displayName": "Order Product Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrderItemChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_4dc_fullname__c": {
+    "displayName": "83c1",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_4dc_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "SecureAgentPlugin": {
+    "displayName": "Secure Agent Plug-in",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SecureAgentPlugin",
+    "properties": [
+      
+    ]
+  },
+  "ContactChangeEvent": {
+    "displayName": "Contact Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContactChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "CallCenter": {
+    "displayName": "Call Center",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CallCenter",
+    "properties": [
+      
+    ]
+  },
+  "STG_t1__c": {
+    "displayName": "somelabel",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_t1__c",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder841__ChangeEvent": {
+    "displayName": "Change Event: Custom Order841",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder841__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "NickOrder__ChangeEvent": {
+    "displayName": "Change Event: Nick Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "NickOrder__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "a3dd_fullname__c": {
+    "displayName": "73a6",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "a3dd_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "CaseStatus": {
+    "displayName": "Case Status Value",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseStatus",
+    "properties": [
+      
+    ]
+  },
+  "ChatterActivity": {
+    "displayName": "Chatter Activity",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ChatterActivity",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_acc_fullname__ChangeEvent": {
+    "displayName": "Change Event: de25",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_acc_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "UserListViewCriterion": {
+    "displayName": "User List View Criteria",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserListViewCriterion",
+    "properties": [
+      
+    ]
+  },
+  "Organization": {
+    "displayName": "Organization",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Organization",
+    "properties": [
+      
+    ]
+  },
+  "CustomHttpHeader": {
+    "displayName": "Custom HTTP Header",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomHttpHeader",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_30a_fullname__c": {
+    "displayName": "1d23",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_30a_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "Product2": {
+    "displayName": "Product",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Product2",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_328_fullname__ChangeEvent": {
+    "displayName": "Change Event: 85db",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_328_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "ActivityHistory": {
+    "displayName": "Activity History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ActivityHistory",
+    "properties": [
+      
+    ]
+  },
+  "ExternalDataUserAuth": {
+    "displayName": "External Data User Authentication",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ExternalDataUserAuth",
+    "properties": [
+      
+    ]
+  },
+  "Folder": {
+    "displayName": "Folder",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Folder",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject2__c": {
+    "displayName": "some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject2__c",
+    "properties": [
+      
+    ]
+  },
+  "ContentFolderItem": {
+    "displayName": "Content Folder Item",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentFolderItem",
+    "properties": [
+      
+    ]
+  },
+  "Profile": {
+    "displayName": "Profile",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Profile",
+    "properties": [
+      
+    ]
+  },
+  "AppDefinition": {
+    "displayName": "App Definition",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AppDefinition",
+    "properties": [
+      
+    ]
+  },
+  "CaseTeamTemplate": {
+    "displayName": "Predefined Case Team",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseTeamTemplate",
+    "properties": [
+      
+    ]
+  },
+  "ae6709_fullname__ChangeEvent": {
+    "displayName": "Change Event: 65b2",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ae6709_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "UserListView": {
+    "displayName": "User List View",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserListView",
+    "properties": [
+      
+    ]
+  },
+  "FileSearchActivity": {
+    "displayName": "FileSearchActivity",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FileSearchActivity",
+    "properties": [
+      
+    ]
+  },
+  "ContentWorkspaceDoc": {
+    "displayName": "Library Document",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentWorkspaceDoc",
+    "properties": [
+      
+    ]
+  },
+  "FeedPollChoice": {
+    "displayName": "Feed Poll Choice",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FeedPollChoice",
+    "properties": [
+      
+    ]
+  },
+  "IconDefinition": {
+    "displayName": "Icon Definition",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "IconDefinition",
+    "properties": [
+      
+    ]
+  },
+  "EmbeddedServiceDetail": {
+    "displayName": "Embedded Service",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmbeddedServiceDetail",
+    "properties": [
+      
+    ]
+  },
+  "Solution": {
+    "displayName": "Solution",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Solution",
+    "properties": [
+      
+    ]
+  },
+  "AssetFeed": {
+    "displayName": "Asset Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AssetFeed",
+    "properties": [
+      
+    ]
+  },
+  "WorkOrderHistory": {
+    "displayName": "Work Order History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WorkOrderHistory",
+    "properties": [
+      
+    ]
+  },
+  "LookupSlaveObject__c": {
+    "displayName": "LookupSlaveObject",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LookupSlaveObject__c",
+    "properties": [
+      
+    ]
+  },
+  "TaskChangeEvent": {
+    "displayName": "Task Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TaskChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "AuthConfigProviders": {
+    "displayName": "Authentication Configuration Auth. Provider",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AuthConfigProviders",
+    "properties": [
+      
+    ]
+  },
+  "SOSSession": {
+    "displayName": "SOS Session",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SOSSession",
+    "properties": [
+      
+    ]
+  },
+  "AuthProvider": {
+    "displayName": "Auth. Provider",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AuthProvider",
+    "properties": [
+      
+    ]
+  },
+  "EventBusSubscriber": {
+    "displayName": "Platform Event Subscription",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EventBusSubscriber",
+    "properties": [
+      
+    ]
+  },
+  "CaseTeamRole": {
+    "displayName": "Case Team Member Role",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseTeamRole",
+    "properties": [
+      
+    ]
+  },
+  "TaskStatus": {
+    "displayName": "Task Status Value",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TaskStatus",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder_123__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder_123__c",
+    "properties": [
+      
+    ]
+  },
+  "WebLink": {
+    "displayName": "Custom Button or Link",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WebLink",
+    "properties": [
+      
+    ]
+  },
+  "UserRecordAccess": {
+    "displayName": "User Record Access",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserRecordAccess",
+    "properties": [
+      
+    ]
+  },
+  "CustomObject__c": {
+    "displayName": "origin",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomObject__c",
+    "properties": [
+      
+    ]
+  },
+  "VisualforceAccessMetrics": {
+    "displayName": "Visualforce Access Metric",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "VisualforceAccessMetrics",
+    "properties": [
+      
+    ]
+  },
+  "EmailDomainFilter": {
+    "displayName": "Email Domain Filter",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailDomainFilter",
+    "properties": [
+      
+    ]
+  },
+  "ContentDocumentSubscription": {
+    "displayName": "Content Document Subscription",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentDocumentSubscription",
+    "properties": [
+      
+    ]
+  },
+  "testAttach__ChangeEvent": {
+    "displayName": "Change Event: testAttach",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "testAttach__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "LookupMasterObject__c": {
+    "displayName": "LookupMasterObject",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LookupMasterObject__c",
+    "properties": [
+      
+    ]
+  },
+  "UserChangeEvent": {
+    "displayName": "User Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityChangeEvent": {
+    "displayName": "Opportunity Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "DatacloudCompany": {
+    "displayName": "Data.com Company",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DatacloudCompany",
+    "properties": [
+      
+    ]
+  },
+  "Task": {
+    "displayName": "Task",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Task",
+    "properties": [
+      
+    ]
+  },
+  "LightningUsageByAppTypeMetrics": {
+    "displayName": "LightningUsageByAppTypeMetrics",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LightningUsageByAppTypeMetrics",
+    "properties": [
+      
+    ]
+  },
+  "CollaborationGroup": {
+    "displayName": "Group",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CollaborationGroup",
+    "properties": [
+      
+    ]
+  },
+  "ChatterExtension": {
+    "displayName": "Chatter Extension",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ChatterExtension",
+    "properties": [
+      
+    ]
+  },
+  "PlatformCachePartition": {
+    "displayName": "Platform Cache Partition",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PlatformCachePartition",
+    "properties": [
+      
+    ]
+  },
+  "OrgLifecycleNotification": {
+    "displayName": "Org Lifecycle Notification",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrgLifecycleNotification",
+    "properties": [
+      
+    ]
+  },
+  "ExternalDataSource": {
+    "displayName": "External Data Source",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ExternalDataSource",
+    "properties": [
+      
+    ]
+  },
+  "ThirdPartyAccountLink": {
+    "displayName": "Third Party Account Link",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ThirdPartyAccountLink",
+    "properties": [
+      
+    ]
+  },
+  "ContractContactRole": {
+    "displayName": "Contract Contact Role",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContractContactRole",
+    "properties": [
+      
+    ]
+  },
+  "FeedItem": {
+    "displayName": "Feed Item",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FeedItem",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityFeed": {
+    "displayName": "Opportunity Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityFeed",
+    "properties": [
+      
+    ]
+  },
+  "FolderedContentDocument": {
+    "displayName": "Foldered Content Document",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FolderedContentDocument",
+    "properties": [
+      
+    ]
+  },
+  "AccountContactRoleChangeEvent": {
+    "displayName": "Account Contact Role Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AccountContactRoleChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "OwnerChangeOptionInfo": {
+    "displayName": "Change Owner Option Info",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OwnerChangeOptionInfo",
+    "properties": [
+      
+    ]
+  },
+  "ForecastingShare": {
+    "displayName": "Forecasting Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ForecastingShare",
+    "properties": [
+      
+    ]
+  },
+  "CaseChangeEvent": {
+    "displayName": "Case Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "TabDefinition": {
+    "displayName": "Tab Definition",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TabDefinition",
+    "properties": [
+      
+    ]
+  },
+  "AuraDefinitionInfo": {
+    "displayName": "AuraDefinition Info",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AuraDefinitionInfo",
+    "properties": [
+      
+    ]
+  },
+  "LeadChangeEvent": {
+    "displayName": "Lead Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LeadChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityContactRoleChangeEvent": {
+    "displayName": "Opportunity Contact Role Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityContactRoleChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder_alex123__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder_alex123__c",
+    "properties": [
+      
+    ]
+  },
+  "UserProvisioningRequest": {
+    "displayName": "User Provisioning Request",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserProvisioningRequest",
+    "properties": [
+      
+    ]
+  },
+  "CustomBrand": {
+    "displayName": "Custom Brand",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomBrand",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject3__c": {
+    "displayName": "some label CHANGED",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject3__c",
+    "properties": [
+      
+    ]
+  },
+  "ChatterExtensionConfig": {
+    "displayName": "Chatter Extension Configuration",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ChatterExtensionConfig",
+    "properties": [
+      
+    ]
+  },
+  "WorkOrderLineItemHistory": {
+    "displayName": "Line Item History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WorkOrderLineItemHistory",
+    "properties": [
+      
+    ]
+  },
+  "ContentBody": {
+    "displayName": "Content Body",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentBody",
+    "properties": [
+      
+    ]
+  },
+  "UserShare": {
+    "displayName": "User Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserShare",
+    "properties": [
+      
+    ]
+  },
+  "PermissionSet": {
+    "displayName": "Permission Set",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PermissionSet",
+    "properties": [
+      
+    ]
+  },
+  "SiteFeed": {
+    "displayName": "Site",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SiteFeed",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "UserAppMenuCustomizationShare": {
+    "displayName": "UserAppMenuCustomization Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserAppMenuCustomizationShare",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject6__ChangeEvent": {
+    "displayName": "Change Event: some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject6__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "KnowledgeableUser": {
+    "displayName": "Knowledgeable User",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "KnowledgeableUser",
+    "properties": [
+      
+    ]
+  },
+  "CustomObjectUserLicenseMetrics": {
+    "displayName": "Custom Object Usage By User License Metric",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomObjectUserLicenseMetrics",
+    "properties": [
+      
+    ]
+  },
+  "ContentDistributionView": {
+    "displayName": "Content Delivery View",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentDistributionView",
+    "properties": [
+      
+    ]
+  },
+  "Case_Changed__e": {
+    "displayName": "Case_Changed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Case_Changed__e",
+    "properties": [
+      
+    ]
+  },
+  "NoteAndAttachment": {
+    "displayName": "Note and Attachment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "NoteAndAttachment",
+    "properties": [
+      
+    ]
+  },
+  "WaveCompatibilityCheckItem": {
+    "displayName": "Wave Compatibility Check Item",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WaveCompatibilityCheckItem",
+    "properties": [
+      
+    ]
+  },
+  "LeadStatus": {
+    "displayName": "Lead Status Value",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LeadStatus",
+    "properties": [
+      
+    ]
+  },
+  "AppMenuItem": {
+    "displayName": "AppMenuItem",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AppMenuItem",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_6ce_fullname__ChangeEvent": {
+    "displayName": "Change Event: 74ee",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_6ce_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "SolutionHistory": {
+    "displayName": "Solution History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SolutionHistory",
+    "properties": [
+      
+    ]
+  },
+  "LightningUsageByFlexiPageMetrics": {
+    "displayName": "LightningUsageByFlexiPageMetrics",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LightningUsageByFlexiPageMetrics",
+    "properties": [
+      
+    ]
+  },
+  "Product2ChangeEvent": {
+    "displayName": "Product Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Product2ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "RecordType": {
+    "displayName": "Record Type",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RecordType",
+    "properties": [
+      
+    ]
+  },
+  "AppTabMember": {
+    "displayName": "App Tab Member",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AppTabMember",
+    "properties": [
+      
+    ]
+  },
+  "EmailMessageRelation": {
+    "displayName": "Email Message Relation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailMessageRelation",
+    "properties": [
+      
+    ]
+  },
+  "Topic": {
+    "displayName": "Topic",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Topic",
+    "properties": [
+      
+    ]
+  },
+  "TopicFeed": {
+    "displayName": "Topic Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TopicFeed",
+    "properties": [
+      
+    ]
+  },
+  "a3dd_fullname__ChangeEvent": {
+    "displayName": "Change Event: 73a6",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "a3dd_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "SecureAgentPluginProperty": {
+    "displayName": "Secure Agent Plug-in Property",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SecureAgentPluginProperty",
+    "properties": [
+      
+    ]
+  },
+  "DandBCompany": {
+    "displayName": "D&B Company",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DandBCompany",
+    "properties": [
+      
+    ]
+  },
+  "ColorDefinition": {
+    "displayName": "Color Definition",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ColorDefinition",
+    "properties": [
+      
+    ]
+  },
+  "LoginEvent": {
+    "displayName": "Login Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LoginEvent",
+    "properties": [
+      
+    ]
+  },
+  "BrandTemplate": {
+    "displayName": "Letterhead",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "BrandTemplate",
+    "properties": [
+      
+    ]
+  },
+  "SubscriberPackage": {
+    "displayName": "Subscriber Package",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SubscriberPackage",
+    "properties": [
+      
+    ]
+  },
+  "EventChangeEvent": {
+    "displayName": "Event Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EventChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "LoginIp": {
+    "displayName": "Login IP",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LoginIp",
+    "properties": [
+      
+    ]
+  },
+  "WaveAssetEvent": {
+    "displayName": "Wave Asset Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WaveAssetEvent",
+    "properties": [
+      
+    ]
+  },
+  "LightningToggleMetrics": {
+    "displayName": "LightningToggleMetrics",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LightningToggleMetrics",
+    "properties": [
+      
+    ]
+  },
+  "OrderFeed": {
+    "displayName": "Order Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrderFeed",
+    "properties": [
+      
+    ]
+  },
+  "ApexLog": {
+    "displayName": "Apex Debug Log",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexLog",
+    "properties": [
+      
+    ]
+  },
+  "InsightsExternalDataPart": {
+    "displayName": "External Data Part",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "InsightsExternalDataPart",
+    "properties": [
+      
+    ]
+  },
+  "RecordAction": {
+    "displayName": "RecordAction",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RecordAction",
+    "properties": [
+      
+    ]
+  },
+  "TopicAssignment": {
+    "displayName": "Topic Assignment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TopicAssignment",
+    "properties": [
+      
+    ]
+  },
+  "LogoutEventStream": {
+    "displayName": "Logout Event Stream",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LogoutEventStream",
+    "properties": [
+      
+    ]
+  },
+  "CspTrustedSite": {
+    "displayName": "Content Security Policy Trusted Site",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CspTrustedSite",
+    "properties": [
+      
+    ]
+  },
+  "DataAssessmentFieldMetric": {
+    "displayName": "Data Assessment Field Metric",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DataAssessmentFieldMetric",
+    "properties": [
+      
+    ]
+  },
+  "CaseSolution": {
+    "displayName": "Case Solution",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseSolution",
+    "properties": [
+      
+    ]
+  },
+  "DataAssessmentMetric": {
+    "displayName": "Data Assessment Metric",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DataAssessmentMetric",
+    "properties": [
+      
+    ]
+  },
+  "ContractHistory": {
+    "displayName": "Contract History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContractHistory",
+    "properties": [
+      
+    ]
+  },
+  "CaseContactRole": {
+    "displayName": "Case Contact Role",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseContactRole",
+    "properties": [
+      
+    ]
+  },
+  "SearchPromotionRule": {
+    "displayName": "Promoted Search Term",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SearchPromotionRule",
+    "properties": [
+      
+    ]
+  },
+  "WorkOrderStatus": {
+    "displayName": "Work Order Status Value",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WorkOrderStatus",
+    "properties": [
+      
+    ]
+  },
+  "OrderItemHistory": {
+    "displayName": "Order Product History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrderItemHistory",
+    "properties": [
+      
+    ]
+  },
+  "Document": {
+    "displayName": "Document",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Document",
+    "properties": [
+      
+    ]
+  },
+  "ContentWorkspaceMember": {
+    "displayName": "Library Member",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentWorkspaceMember",
+    "properties": [
+      
+    ]
+  },
+  "ObjectContainingImage__ChangeEvent": {
+    "displayName": "Change Event: ObjectContainingImage",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ObjectContainingImage__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "RelationshipDomain": {
+    "displayName": "Relationship Domain",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RelationshipDomain",
+    "properties": [
+      
+    ]
+  },
+  "FeedLike": {
+    "displayName": "Feed Like",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FeedLike",
+    "properties": [
+      
+    ]
+  },
+  "ContentWorkspace": {
+    "displayName": "Library",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentWorkspace",
+    "properties": [
+      
+    ]
+  },
+  "UserAppInfo": {
+    "displayName": "Last Used App",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserAppInfo",
+    "properties": [
+      
+    ]
+  },
+  "Pricebook2History": {
+    "displayName": "Price Book History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Pricebook2History",
+    "properties": [
+      
+    ]
+  },
+  "MailmergeTemplate": {
+    "displayName": "Mail Merge Template",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "MailmergeTemplate",
+    "properties": [
+      
+    ]
+  },
+  "CronTrigger": {
+    "displayName": "Scheduled Jobs",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CronTrigger",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrderQ__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrderQ__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "ContentDocumentHistory": {
+    "displayName": "Content Document History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentDocumentHistory",
+    "properties": [
+      
+    ]
+  },
+  "StampAssignment": {
+    "displayName": "Stamp Assignment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "StampAssignment",
+    "properties": [
+      
+    ]
+  },
+  "AssetRelationshipFeed": {
+    "displayName": "Asset Relationship Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AssetRelationshipFeed",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder_aa1234__ChangeEvent": {
+    "displayName": "Change Event: Custom Order aa1234",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder_aa1234__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "DatasetExport": {
+    "displayName": "Dataset Export",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DatasetExport",
+    "properties": [
+      
+    ]
+  },
+  "TodayGoalShare": {
+    "displayName": "Goal Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TodayGoalShare",
+    "properties": [
+      
+    ]
+  },
+  "UserAppMenuItem": {
+    "displayName": "Application",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserAppMenuItem",
+    "properties": [
+      
+    ]
+  },
+  "UserProvisioningRequestShare": {
+    "displayName": "User Provisioning Request Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserProvisioningRequestShare",
+    "properties": [
+      
+    ]
+  },
+  "UserProvisioningConfig": {
+    "displayName": "User Provisioning Config",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserProvisioningConfig",
+    "properties": [
+      
+    ]
+  },
+  "Product2Feed": {
+    "displayName": "Product Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Product2Feed",
+    "properties": [
+      
+    ]
+  },
+  "AccountPartner": {
+    "displayName": "Account Partner",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AccountPartner",
+    "properties": [
+      
+    ]
+  },
+  "QueueSobject": {
+    "displayName": "Queue Sobject",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "QueueSobject",
+    "properties": [
+      
+    ]
+  },
+  "ApexClass": {
+    "displayName": "Apex Class",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexClass",
+    "properties": [
+      
+    ]
+  },
+  "FeedPollVote": {
+    "displayName": "Feed Poll Vote",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FeedPollVote",
+    "properties": [
+      
+    ]
+  },
+  "LoginEventStream": {
+    "displayName": "Login Event Stream",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LoginEventStream",
+    "properties": [
+      
+    ]
+  },
+  "Group": {
+    "displayName": "Group",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Group",
+    "properties": [
+      
+    ]
+  },
+  "FieldPermissions": {
+    "displayName": "Field Permissions",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FieldPermissions",
+    "properties": [
+      
+    ]
+  },
+  "Announcement": {
+    "displayName": "Announcement",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Announcement",
+    "properties": [
+      
+    ]
+  },
+  "PicklistValueInfo": {
+    "displayName": "Picklist Value Info",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PicklistValueInfo",
+    "properties": [
+      
+    ]
+  },
+  "AccountFeed": {
+    "displayName": "Account Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AccountFeed",
+    "properties": [
+      
+    ]
+  },
+  "DeclinedEventRelation": {
+    "displayName": "Declined Event Relation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DeclinedEventRelation",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder1__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder1__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "ApexEmailNotification": {
+    "displayName": "Apex Email Notification",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexEmailNotification",
+    "properties": [
+      
+    ]
+  },
+  "FlowInterview": {
+    "displayName": "Flow Interview",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FlowInterview",
+    "properties": [
+      
+    ]
+  },
+  "ContentFolderLink": {
+    "displayName": "Content Folder Link",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentFolderLink",
+    "properties": [
+      
+    ]
+  },
+  "WorkOrderShare": {
+    "displayName": "Work Order Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WorkOrderShare",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder_123__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder_123__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "EventRelation": {
+    "displayName": "Event Relation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EventRelation",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrderr__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrderr__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "IdeaComment": {
+    "displayName": "Idea Comment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "IdeaComment",
+    "properties": [
+      
+    ]
+  },
+  "ProcessInstanceHistory": {
+    "displayName": "Process Instance History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ProcessInstanceHistory",
+    "properties": [
+      
+    ]
+  },
+  "AssetRelationship": {
+    "displayName": "Asset Relationship",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AssetRelationship",
+    "properties": [
+      
+    ]
+  },
+  "DataLoad_AccountOwnerMapping__ChangeEvent": {
+    "displayName": "Change Event: Account Owner Mapping",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DataLoad_AccountOwnerMapping__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "UserProvAccount": {
+    "displayName": "User Provisioning Account",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserProvAccount",
+    "properties": [
+      
+    ]
+  },
+  "PlatformCachePartitionType": {
+    "displayName": "Platform Cache Partition Type",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PlatformCachePartitionType",
+    "properties": [
+      
+    ]
+  },
+  "AuraDefinition": {
+    "displayName": "Lightning Component Definition",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AuraDefinition",
+    "properties": [
+      
+    ]
+  },
+  "AcceptedEventRelation": {
+    "displayName": "Accepted Event Relation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AcceptedEventRelation",
+    "properties": [
+      
+    ]
+  },
+  "OrderShare": {
+    "displayName": "Order Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrderShare",
+    "properties": [
+      
+    ]
+  },
+  "DataStatistics": {
+    "displayName": "Data Statistics",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DataStatistics",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject1__Share": {
+    "displayName": "Share: some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject1__Share",
+    "properties": [
+      
+    ]
+  },
+  "Testing__c": {
+    "displayName": "Testing",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Testing__c",
+    "properties": [
+      
+    ]
+  },
+  "QuickTextHistory": {
+    "displayName": "Quick Text History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "QuickTextHistory",
+    "properties": [
+      
+    ]
+  },
+  "EntityDefinition": {
+    "displayName": "Entity Definition",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EntityDefinition",
+    "properties": [
+      
+    ]
+  },
+  "FeedSignal": {
+    "displayName": "Feed Signal",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FeedSignal",
+    "properties": [
+      
+    ]
+  },
+  "VoiceVendorInfo": {
+    "displayName": "Voice Vendor Info",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "VoiceVendorInfo",
+    "properties": [
+      
+    ]
+  },
+  "CollaborationGroupRecord": {
+    "displayName": "Group Record",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CollaborationGroupRecord",
+    "properties": [
+      
+    ]
+  },
+  "EventFeed": {
+    "displayName": "Event Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EventFeed",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityStage": {
+    "displayName": "Opportunity Stage",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityStage",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_fullname__c": {
+    "displayName": "28a7",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "Claim__c": {
+    "displayName": "Claim",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Claim__c",
+    "properties": [
+      
+    ]
+  },
+  "ActionLinkGroupTemplate": {
+    "displayName": "Action Link Group Template",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ActionLinkGroupTemplate",
+    "properties": [
+      
+    ]
+  },
+  "UserFieldAccess": {
+    "displayName": "User Field Access",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserFieldAccess",
+    "properties": [
+      
+    ]
+  },
+  "Event": {
+    "displayName": "Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Event",
+    "properties": [
+      
+    ]
+  },
+  "DatacloudDandBCompany": {
+    "displayName": "D&B Company",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DatacloudDandBCompany",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_aaa_fullname__c": {
+    "displayName": "0e35",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_aaa_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "ContentFolderMember": {
+    "displayName": "Content Folder Member",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentFolderMember",
+    "properties": [
+      
+    ]
+  },
+  "TodayGoal": {
+    "displayName": "Goal",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TodayGoal",
+    "properties": [
+      
+    ]
+  },
+  "TaskPriority": {
+    "displayName": "Task Priority Value",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TaskPriority",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityLineItem": {
+    "displayName": "Opportunity Product",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityLineItem",
+    "properties": [
+      
+    ]
+  },
+  "DataAssessmentValueMetric": {
+    "displayName": "Data Assessment Field Value Metric",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DataAssessmentValueMetric",
+    "properties": [
+      
+    ]
+  },
+  "Test4__ChangeEvent": {
+    "displayName": "Change Event: Test4",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Test4__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "Dashboard": {
+    "displayName": "Dashboard",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Dashboard",
+    "properties": [
+      
+    ]
+  },
+  "UserLicense": {
+    "displayName": "User License",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserLicense",
+    "properties": [
+      
+    ]
+  },
+  "AuraDefinitionBundleInfo": {
+    "displayName": "AuraDefinitionBundle Info",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AuraDefinitionBundleInfo",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityHistory": {
+    "displayName": "Opportunity History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityHistory",
+    "properties": [
+      
+    ]
+  },
+  "DatasetExportPart": {
+    "displayName": "Dataset Export Part",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DatasetExportPart",
+    "properties": [
+      
+    ]
+  },
+  "Orden__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Orden__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "metadataObjectAndrei__c": {
+    "displayName": "Metadata Object",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "metadataObjectAndrei__c",
+    "properties": [
+      
+    ]
+  },
+  "ContentDocumentLink": {
+    "displayName": "Content Document Link",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentDocumentLink",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder1476958122445__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder1476958122445__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "Name": {
+    "displayName": "Name",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Name",
+    "properties": [
+      
+    ]
+  },
+  "CustomObject__ChangeEvent": {
+    "displayName": "Change Event: origin",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomObject__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_584_fullname__c": {
+    "displayName": "13ec",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_584_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "b1b4f_fullname__ChangeEvent": {
+    "displayName": "Change Event: c25e",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "b1b4f_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "adysanta__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "adysanta__c",
+    "properties": [
+      
+    ]
+  },
+  "EmailServicesFunction": {
+    "displayName": "Email Service",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailServicesFunction",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityShare": {
+    "displayName": "Opportunity Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityShare",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject13__ChangeEvent": {
+    "displayName": "Change Event: some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject13__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "SolutionStatus": {
+    "displayName": "Solution Status Value",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SolutionStatus",
+    "properties": [
+      
+    ]
+  },
+  "SOSSessionFeed": {
+    "displayName": "SOS Session Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SOSSessionFeed",
+    "properties": [
+      
+    ]
+  },
+  "ContentTagSubscription": {
+    "displayName": "Content Tag Subscription",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentTagSubscription",
+    "properties": [
+      
+    ]
+  },
+  "LookupSlaveObject__ChangeEvent": {
+    "displayName": "Change Event: LookupSlaveObject",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LookupSlaveObject__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "FeedTrackedChange": {
+    "displayName": "Feed Tracked Change",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FeedTrackedChange",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder841__c": {
+    "displayName": "Custom Order841",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder841__c",
+    "properties": [
+      
+    ]
+  },
+  "OrgDeleteRequest": {
+    "displayName": "Org Delete Request",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrgDeleteRequest",
+    "properties": [
+      
+    ]
+  },
+  "Campaign": {
+    "displayName": "Campaign",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Campaign",
+    "properties": [
+      
+    ]
+  },
+  "AccountChangeEvent": {
+    "displayName": "Account Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AccountChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "Individual": {
+    "displayName": "Individual",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Individual",
+    "properties": [
+      
+    ]
+  },
+  "EmailTemplate": {
+    "displayName": "Email Template",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailTemplate",
+    "properties": [
+      
+    ]
+  },
+  "TransactionSecurityPolicy": {
+    "displayName": "Transaction Security Policy",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TransactionSecurityPolicy",
+    "properties": [
+      
+    ]
+  },
+  "InstalledMobileApp": {
+    "displayName": "Installed Mobile App",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "InstalledMobileApp",
+    "properties": [
+      
+    ]
+  },
+  "SiteHistory": {
+    "displayName": "Site History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SiteHistory",
+    "properties": [
+      
+    ]
+  },
+  "Domain": {
+    "displayName": "Domain",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Domain",
+    "properties": [
+      
+    ]
+  },
+  "UserAppMenuCustomization": {
+    "displayName": "UserAppMenuCustomization",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserAppMenuCustomization",
+    "properties": [
+      
+    ]
+  },
+  "Order__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Order__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "IndividualHistory": {
+    "displayName": "Individual History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "IndividualHistory",
+    "properties": [
+      
+    ]
+  },
+  "CategoryData": {
+    "displayName": "Category Data",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CategoryData",
+    "properties": [
+      
+    ]
+  },
+  "SolutionFeed": {
+    "displayName": "Solution Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SolutionFeed",
+    "properties": [
+      
+    ]
+  },
+  "MacroInstruction": {
+    "displayName": "Macro Instruction",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "MacroInstruction",
+    "properties": [
+      
+    ]
+  },
+  "OrderItemFeed": {
+    "displayName": "Order Product Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrderItemFeed",
+    "properties": [
+      
+    ]
+  },
+  "DuplicateRecordItem": {
+    "displayName": "Duplicate Record Item",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DuplicateRecordItem",
+    "properties": [
+      
+    ]
+  },
+  "ContractStatus": {
+    "displayName": "Contract Status Value",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContractStatus",
+    "properties": [
+      
+    ]
+  },
+  "af49b9_fullname__c": {
+    "displayName": "681d",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "af49b9_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "Testing__ChangeEvent": {
+    "displayName": "Change Event: Testing",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Testing__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "CaseComment": {
+    "displayName": "Case Comment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseComment",
+    "properties": [
+      
+    ]
+  },
+  "DataLoad_AccountOwnerMapping__c": {
+    "displayName": "Account Owner Mapping",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DataLoad_AccountOwnerMapping__c",
+    "properties": [
+      
+    ]
+  },
+  "AdminSetupEvent": {
+    "displayName": "Admin Setup Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AdminSetupEvent",
+    "properties": [
+      
+    ]
+  },
+  "EmailDomainKey": {
+    "displayName": "Email Domain Key",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailDomainKey",
+    "properties": [
+      
+    ]
+  },
+  "CampaignFeed": {
+    "displayName": "Campaign Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CampaignFeed",
+    "properties": [
+      
+    ]
+  },
+  "ContentUserSubscription": {
+    "displayName": "Content User Subscription",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentUserSubscription",
+    "properties": [
+      
+    ]
+  },
+  "DataLoad_FieldMapping__ChangeEvent": {
+    "displayName": "Change Event: Data Load",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DataLoad_FieldMapping__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "DomainSite": {
+    "displayName": "Custom URL",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DomainSite",
+    "properties": [
+      
+    ]
+  },
+  "Phone_Changed__e": {
+    "displayName": "Phone_Changed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Phone_Changed__e",
+    "properties": [
+      
+    ]
+  },
+  "AssetRelationshipHistory": {
+    "displayName": "Asset Relationship History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AssetRelationshipHistory",
+    "properties": [
+      
+    ]
+  },
+  "SearchActivity": {
+    "displayName": "SearchActivity",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SearchActivity",
+    "properties": [
+      
+    ]
+  },
+  "PushUpgradeExcludedOrg": {
+    "displayName": "Push Upgrade Excluded Org",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PushUpgradeExcludedOrg",
+    "properties": [
+      
+    ]
+  },
+  "ReportEvent": {
+    "displayName": "Report Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ReportEvent",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject1__c": {
+    "displayName": "some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject1__c",
+    "properties": [
+      
+    ]
+  },
+  "ApexPage": {
+    "displayName": "Visualforce Page",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexPage",
+    "properties": [
+      
+    ]
+  },
+  "CampaignShare": {
+    "displayName": "Campaign Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CampaignShare",
+    "properties": [
+      
+    ]
+  },
+  "CampaignChangeEvent": {
+    "displayName": "Campaign Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CampaignChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "OutgoingEmailRelation": {
+    "displayName": "Outgoing Email Relation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OutgoingEmailRelation",
+    "properties": [
+      
+    ]
+  },
+  "SecureAgentsCluster": {
+    "displayName": "Secure Agent Cluster",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SecureAgentsCluster",
+    "properties": [
+      
+    ]
+  },
+  "LightningUsageByPageMetrics": {
+    "displayName": "LightningUsageByPageMetrics",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LightningUsageByPageMetrics",
+    "properties": [
+      
+    ]
+  },
+  "ContactShare": {
+    "displayName": "Contact Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContactShare",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder_alex123__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder_alex123__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "FlowRecordRelation": {
+    "displayName": "Flow Record Relation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FlowRecordRelation",
+    "properties": [
+      
+    ]
+  },
+  "Andrei__c": {
+    "displayName": "Andrei Object_27-3-2015",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Andrei__c",
+    "properties": [
+      
+    ]
+  },
+  "MatchingRule": {
+    "displayName": "Matching Rule",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "MatchingRule",
+    "properties": [
+      
+    ]
+  },
+  "ContentVersionRating": {
+    "displayName": "Content Version Rating",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentVersionRating",
+    "properties": [
+      
+    ]
+  },
+  "PlatformAction": {
+    "displayName": "Platform Action",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PlatformAction",
+    "properties": [
+      
+    ]
+  },
+  "Account": {
+    "displayName": "Account",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Account",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_acc_fullname__c": {
+    "displayName": "de25",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_acc_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "LeadShare": {
+    "displayName": "Lead Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LeadShare",
+    "properties": [
+      
+    ]
+  },
+  "CustomPermissionDependency": {
+    "displayName": "Custom Permission Dependency",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomPermissionDependency",
+    "properties": [
+      
+    ]
+  },
+  "AttachedContentDocument": {
+    "displayName": "Attached Content Document",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AttachedContentDocument",
+    "properties": [
+      
+    ]
+  },
+  "DataLoad_FieldMapping__c": {
+    "displayName": "Data Load",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DataLoad_FieldMapping__c",
+    "properties": [
+      
+    ]
+  },
+  "BrandingSetProperty": {
+    "displayName": "Branding Set Property",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "BrandingSetProperty",
+    "properties": [
+      
+    ]
+  },
+  "ForecastShare": {
+    "displayName": "Forecast Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ForecastShare",
+    "properties": [
+      
+    ]
+  },
+  "PushTopic": {
+    "displayName": "Push Topic",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PushTopic",
+    "properties": [
+      
+    ]
+  },
+  "Scontrol": {
+    "displayName": "Custom S-Control",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Scontrol",
+    "properties": [
+      
+    ]
+  },
+  "ActionLinkTemplate": {
+    "displayName": "Action Link Template",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ActionLinkTemplate",
+    "properties": [
+      
+    ]
+  },
+  "CronJobDetail": {
+    "displayName": "Cron Job",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CronJobDetail",
+    "properties": [
+      
+    ]
+  },
+  "CollaborationInvitation": {
+    "displayName": "Chatter Invitation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CollaborationInvitation",
+    "properties": [
+      
+    ]
+  },
+  "SubscriberPackageVersion": {
+    "displayName": "Subscriber Package Version",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SubscriberPackageVersion",
+    "properties": [
+      
+    ]
+  },
+  "Andrei__ChangeEvent": {
+    "displayName": "Change Event: Andrei Object_27-3-2015",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Andrei__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "WorkOrderLineItemStatus": {
+    "displayName": "Work Order Line Item Status Value",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WorkOrderLineItemStatus",
+    "properties": [
+      
+    ]
+  },
+  "CollaborationGroupMember": {
+    "displayName": "Group Member",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CollaborationGroupMember",
+    "properties": [
+      
+    ]
+  },
+  "LoginGeo": {
+    "displayName": "Login Geo Data",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LoginGeo",
+    "properties": [
+      
+    ]
+  },
+  "Vote": {
+    "displayName": "Vote",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Vote",
+    "properties": [
+      
+    ]
+  },
+  "ContentHubItem": {
+    "displayName": "Files Connect item",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentHubItem",
+    "properties": [
+      
+    ]
+  },
+  "EmailServicesAddress": {
+    "displayName": "Email Services Address",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailServicesAddress",
+    "properties": [
+      
+    ]
+  },
+  "ListEmailChangeEvent": {
+    "displayName": "List Email Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ListEmailChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "ObjectContainingImage__c": {
+    "displayName": "ObjectContainingImage",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ObjectContainingImage__c",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_4dc_fullname__ChangeEvent": {
+    "displayName": "Change Event: 83c1",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_4dc_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "Idea": {
+    "displayName": "Idea",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Idea",
+    "properties": [
+      
+    ]
+  },
+  "EntitySubscription": {
+    "displayName": "Entity Subscription",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EntitySubscription",
+    "properties": [
+      
+    ]
+  },
+  "ContentVersionComment": {
+    "displayName": "Content Version Comment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentVersionComment",
+    "properties": [
+      
+    ]
+  },
+  "Contract": {
+    "displayName": "Contract",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Contract",
+    "properties": [
+      
+    ]
+  },
+  "EventLogFile": {
+    "displayName": "Event Log File",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EventLogFile",
+    "properties": [
+      
+    ]
+  },
+  "Site": {
+    "displayName": "Site",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Site",
+    "properties": [
+      
+    ]
+  },
+  "CombinedAttachment": {
+    "displayName": "Note, Attachment, Google Doc And File",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CombinedAttachment",
+    "properties": [
+      
+    ]
+  },
+  "VisibilityChangeNotification": {
+    "displayName": "Visibility Change Notification",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "VisibilityChangeNotification",
+    "properties": [
+      
+    ]
+  },
+  "NickOrder__c": {
+    "displayName": "Nick Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "NickOrder__c",
+    "properties": [
+      
+    ]
+  },
+  "SOSDeployment": {
+    "displayName": "SOS Deployment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SOSDeployment",
+    "properties": [
+      
+    ]
+  },
+  "EventRelationChangeEvent": {
+    "displayName": "Event Relation Change Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EventRelationChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "AssetTokenEvent": {
+    "displayName": "Asset Token Event",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AssetTokenEvent",
+    "properties": [
+      
+    ]
+  },
+  "Case": {
+    "displayName": "Case",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Case",
+    "properties": [
+      
+    ]
+  },
+  "STG_t1__ChangeEvent": {
+    "displayName": "Change Event: somelabel",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_t1__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder12__ChangeEvent": {
+    "displayName": "Change Event: Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder12__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "Process_Event_Log__ChangeEvent": {
+    "displayName": "Change Event: Process_Event_Log",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Process_Event_Log__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "PermissionSetAssignment": {
+    "displayName": "Permission Set Assignment",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PermissionSetAssignment",
+    "properties": [
+      
+    ]
+  },
+  "ConnectedApplication": {
+    "displayName": "Connected App",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ConnectedApplication",
+    "properties": [
+      
+    ]
+  },
+  "InsightsExternalData": {
+    "displayName": "External Data",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "InsightsExternalData",
+    "properties": [
+      
+    ]
+  },
+  "OwnedContentDocument": {
+    "displayName": "User Owned File",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OwnedContentDocument",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_c05_fullname__c": {
+    "displayName": "f1ed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_c05_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "Lead": {
+    "displayName": "Lead",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Lead",
+    "properties": [
+      
+    ]
+  },
+  "FlowStageRelation": {
+    "displayName": "Flow Interview Stage Relation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FlowStageRelation",
+    "properties": [
+      
+    ]
+  },
+  "DuplicateRecordSet": {
+    "displayName": "Duplicate Record Set",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DuplicateRecordSet",
+    "properties": [
+      
+    ]
+  },
+  "Claim__ChangeEvent": {
+    "displayName": "Change Event: Claim",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Claim__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "AsyncApexJob": {
+    "displayName": "Apex Job",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AsyncApexJob",
+    "properties": [
+      
+    ]
+  },
+  "Partner": {
+    "displayName": "Partner",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Partner",
+    "properties": [
+      
+    ]
+  },
+  "UserProvisioningLog": {
+    "displayName": "User Provisioning Log",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserProvisioningLog",
+    "properties": [
+      
+    ]
+  },
+  "MacroShare": {
+    "displayName": "Macro Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "MacroShare",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject11__c": {
+    "displayName": "some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject11__c",
+    "properties": [
+      
+    ]
+  },
+  "ApexTestQueueItem": {
+    "displayName": "Apex Test Queue Item",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexTestQueueItem",
+    "properties": [
+      
+    ]
+  },
+  "EmailCapture": {
+    "displayName": "EmailCapture",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailCapture",
+    "properties": [
+      
+    ]
+  },
+  "Stamp": {
+    "displayName": "Stamp",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Stamp",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder1476958122445__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder1476958122445__c",
+    "properties": [
+      
+    ]
+  },
+  "FeedRevision": {
+    "displayName": "Feed Revision",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FeedRevision",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject11__ChangeEvent": {
+    "displayName": "Change Event: some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject11__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "SecurityCustomBaseline": {
+    "displayName": "Security Custom Baseline",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SecurityCustomBaseline",
+    "properties": [
+      
+    ]
+  },
+  "DocumentAttachmentMap": {
+    "displayName": "Document Entity Map",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DocumentAttachmentMap",
+    "properties": [
+      
+    ]
+  },
+  "QuoteTemplateRichTextData": {
+    "displayName": "Quote Template Rich Text Data",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "QuoteTemplateRichTextData",
+    "properties": [
+      
+    ]
+  },
+  "CategoryNode": {
+    "displayName": "Category Node",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CategoryNode",
+    "properties": [
+      
+    ]
+  },
+  "TenantUsageEntitlement": {
+    "displayName": "Tenant Usage Entitlement",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TenantUsageEntitlement",
+    "properties": [
+      
+    ]
+  },
+  "OrderItem": {
+    "displayName": "Order Product",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrderItem",
+    "properties": [
+      
+    ]
+  },
+  "ApexPageInfo": {
+    "displayName": "Apex Page Info",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ApexPageInfo",
+    "properties": [
+      
+    ]
+  },
+  "TaskFeed": {
+    "displayName": "Task Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "TaskFeed",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_c05_fullname__ChangeEvent": {
+    "displayName": "Change Event: f1ed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_c05_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject3__ChangeEvent": {
+    "displayName": "Change Event: some label CHANGED",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject3__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "FieldDefinition": {
+    "displayName": "Field Definition",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FieldDefinition",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_8dd_fullname__c": {
+    "displayName": "fa08",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_8dd_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "ProcessNode": {
+    "displayName": "Process Node",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ProcessNode",
+    "properties": [
+      
+    ]
+  },
+  "CaseTeamTemplateRecord": {
+    "displayName": "Predefined Case Team Record",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseTeamTemplateRecord",
+    "properties": [
+      
+    ]
+  },
+  "ProcessDefinition": {
+    "displayName": "Process Definition",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ProcessDefinition",
+    "properties": [
+      
+    ]
+  },
+  "SecureAgent": {
+    "displayName": "Secure Agent",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SecureAgent",
+    "properties": [
+      
+    ]
+  },
+  "VerificationHistory": {
+    "displayName": "Identity Verification History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "VerificationHistory",
+    "properties": [
+      
+    ]
+  },
+  "CustomPermission": {
+    "displayName": "Custom Permission",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomPermission",
+    "properties": [
+      
+    ]
+  },
+  "ContentFolder": {
+    "displayName": "Content Folder",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentFolder",
+    "properties": [
+      
+    ]
+  },
+  "DuplicateRule": {
+    "displayName": "Duplicate Rule",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DuplicateRule",
+    "properties": [
+      
+    ]
+  },
+  "AccountHistory": {
+    "displayName": "Account History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AccountHistory",
+    "properties": [
+      
+    ]
+  },
+  "AggregateResult": {
+    "displayName": "Aggregate Result",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AggregateResult",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder_aa1234__c": {
+    "displayName": "Custom Order aa1234",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder_aa1234__c",
+    "properties": [
+      
+    ]
+  },
+  "CorsWhitelistEntry": {
+    "displayName": "CORS Whitelist Origin",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CorsWhitelistEntry",
+    "properties": [
+      
+    ]
+  },
+  "OrderHistory": {
+    "displayName": "Order History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OrderHistory",
+    "properties": [
+      
+    ]
+  },
+  "QuickTextShare": {
+    "displayName": "Quick Text Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "QuickTextShare",
+    "properties": [
+      
+    ]
+  },
+  "FlowInterviewShare": {
+    "displayName": "Flow Interview Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "FlowInterviewShare",
+    "properties": [
+      
+    ]
+  },
+  "CaseHistory": {
+    "displayName": "Case History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CaseHistory",
+    "properties": [
+      
+    ]
+  },
+  "LookedUpFromActivity": {
+    "displayName": "Lookups from Activity",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LookedUpFromActivity",
+    "properties": [
+      
+    ]
+  },
+  "Order": {
+    "displayName": "Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Order",
+    "properties": [
+      
+    ]
+  },
+  "PackageLicense": {
+    "displayName": "Package License",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PackageLicense",
+    "properties": [
+      
+    ]
+  },
+  "EmailMessage": {
+    "displayName": "Email Message",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "EmailMessage",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject13__c": {
+    "displayName": "some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject13__c",
+    "properties": [
+      
+    ]
+  },
+  "CampaignMemberStatus": {
+    "displayName": "Campaign Member Status",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CampaignMemberStatus",
+    "properties": [
+      
+    ]
+  },
+  "WorkOrderLineItemFeed": {
+    "displayName": "Work Order Line Item Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "WorkOrderLineItemFeed",
+    "properties": [
+      
+    ]
+  },
+  "Period": {
+    "displayName": "Period",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Period",
+    "properties": [
+      
+    ]
+  },
+  "GrantedByLicense": {
+    "displayName": "Setting Granted By License",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "GrantedByLicense",
+    "properties": [
+      
+    ]
+  },
+  "ContentAsset": {
+    "displayName": "Asset File",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentAsset",
+    "properties": [
+      
+    ]
+  },
+  "ContactRequestShare": {
+    "displayName": "Contact Request Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContactRequestShare",
+    "properties": [
+      
+    ]
+  },
+  "se10375__ChangeEvent": {
+    "displayName": "Change Event: se10375",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "se10375__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "LoginHistory": {
+    "displayName": "Login History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LoginHistory",
+    "properties": [
+      
+    ]
+  },
+  "LookupMasterObject__ChangeEvent": {
+    "displayName": "Change Event: LookupMasterObject",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LookupMasterObject__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "CustomOrder12__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CustomOrder12__c",
+    "properties": [
+      
+    ]
+  },
+  "IdpEventLog": {
+    "displayName": "Identity Provider Event Log",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "IdpEventLog",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityCompetitor": {
+    "displayName": "Opportunity: Competitor",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityCompetitor",
+    "properties": [
+      
+    ]
+  },
+  "DashboardComponent": {
+    "displayName": "Dashboard Component",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DashboardComponent",
+    "properties": [
+      
+    ]
+  },
+  "UserProvMockTarget": {
+    "displayName": "User Provisioning Mock Target",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserProvMockTarget",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_8dd_fullname__ChangeEvent": {
+    "displayName": "Change Event: fa08",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_8dd_fullname__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "ListEmailShare": {
+    "displayName": "List Email Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ListEmailShare",
+    "properties": [
+      
+    ]
+  },
+  "User": {
+    "displayName": "User",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "User",
+    "properties": [
+      
+    ]
+  },
+  "STG_CustomObject2__ChangeEvent": {
+    "displayName": "Change Event: some label",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "STG_CustomObject2__ChangeEvent",
+    "properties": [
+      
+    ]
+  },
+  "CampaignHistory": {
+    "displayName": "Campaign Field History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CampaignHistory",
+    "properties": [
+      
+    ]
+  },
+  "Macro": {
+    "displayName": "Macro",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Macro",
+    "properties": [
+      
+    ]
+  },
+  "SOSSessionActivity": {
+    "displayName": "SOS Session Activity",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SOSSessionActivity",
+    "properties": [
+      
+    ]
+  },
+  "DatacloudAddress": {
+    "displayName": "Data.com Address",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DatacloudAddress",
+    "properties": [
+      
+    ]
+  },
+  "SamlSsoConfig": {
+    "displayName": "SAML Single Sign-On Setting",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "SamlSsoConfig",
+    "properties": [
+      
+    ]
+  },
+  "UserFeed": {
+    "displayName": "User Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UserFeed",
+    "properties": [
+      
+    ]
+  },
+  "CollaborationGroupFeed": {
+    "displayName": "Group Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "CollaborationGroupFeed",
+    "properties": [
+      
+    ]
+  },
+  "ContractFeed": {
+    "displayName": "Contract Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContractFeed",
+    "properties": [
+      
+    ]
+  },
+  "DashboardFeed": {
+    "displayName": "Dashboard Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DashboardFeed",
+    "properties": [
+      
+    ]
+  },
+  "OpportunityContactRole": {
+    "displayName": "Opportunity Contact Role",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "OpportunityContactRole",
+    "properties": [
+      
+    ]
+  },
+  "ContentVersionHistory": {
+    "displayName": "Content Version History",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ContentVersionHistory",
+    "properties": [
+      
+    ]
+  },
+  "PermissionSetLicense": {
+    "displayName": "Permission Set License",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "PermissionSetLicense",
+    "properties": [
+      
+    ]
+  },
+  "RenameMetadataTestCase_328_fullname__c": {
+    "displayName": "85db",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "RenameMetadataTestCase_328_fullname__c",
+    "properties": [
+      
+    ]
+  },
+  "LeadFeed": {
+    "displayName": "Lead Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "LeadFeed",
+    "properties": [
+      
+    ]
+  },
+  "Contact": {
+    "displayName": "Contact",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Contact",
+    "properties": [
+      
+    ]
+  },
+  "UndecidedEventRelation": {
+    "displayName": "Undecided Event Relation",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "UndecidedEventRelation",
+    "properties": [
+      
+    ]
+  },
+  "DashboardComponentFeed": {
+    "displayName": "Dashboard Component Feed",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "DashboardComponentFeed",
+    "properties": [
+      
+    ]
+  },
+  "AccountShare": {
+    "displayName": "Account Share",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "AccountShare",
+    "properties": [
+      
+    ]
+  },
+  "MatchingRuleItem": {
+    "displayName": "Matching Rule Item",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "MatchingRuleItem",
+    "properties": [
+      
+    ]
+  },
+  "Order__c": {
+    "displayName": "Custom Order",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "Order__c",
+    "properties": [
+      
+    ]
+  },
+  "ListViewChart": {
+    "displayName": "List View Chart",
+    "childs": {
+      
+    },
+    "partName": "type",
+    "id": "ListViewChart",
+    "properties": [
+      
+    ]
+  }
+}

@@ -43,8 +43,8 @@ public class Parameterizer {
 
     public static void main(String[] args) throws IOException {
             // PUT THE FILE NAME OF THE KEYS
-            Parameterizer.getParametrization("IdentityManagement.json", WORKDAY);
-
+           // Parameterizer.getParametrization("IdentityManagement.json", WORKDAY);
+                Parameterizer.getParametrization("PreDelete.json", COMPOSITE);
     }
 }
 
