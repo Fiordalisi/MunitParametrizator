@@ -1,0 +1,1201 @@
+{
+  "__customRecordType__customrecord_repairmaintsubcategoryb__72": {
+    "displayName": "FAM - Repair & Maint Sub B",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_repairmaintsubcategoryb__72",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord663581__663581": {
+    "displayName": "getCustomRecordRecordName3123",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord663581__663581",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_bill_eft_payment__378": {
+    "displayName": "Bill EFT Payment Information",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_bill_eft_payment__378",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ss_saved_search_subs__454": {
+    "displayName": "Saved Search Subscription",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ss_saved_search_subs__454",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord654280__654280": {
+    "displayName": "getCustomizationIdsName1559137153498",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord654280__654280",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_deprhistory__75": {
+    "displayName": "FAM - Depreciation History",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_deprhistory__75",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_altdepr_proposal__248": {
+    "displayName": "Alternate Depreciation",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_altdepr_proposal__248",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord615880__615880": {
+    "displayName": "getCustomRT_Name_j2jFzJU90C",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord615880__615880",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_expenseincome__68": {
+    "displayName": "FAM - Expense/Income",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_expenseincome__68",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_assetusage__74": {
+    "displayName": "FAM - Asset Usage",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_assetusage__74",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_payment_schedule__375": {
+    "displayName": "Payment Schedule",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_payment_schedule__375",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_standard_record__473": {
+    "displayName": "SuiteSocial Standard Record",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_standard_record__473",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_assettype__65": {
+    "displayName": "FAM - Asset Type",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_assettype__65",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_autosubscribe__462": {
+    "displayName": "SuiteSocial Auto Subscribe",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_autosubscribe__462",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_subscription__438": {
+    "displayName": "SuiteSocial Subscription",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_subscription__438",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord518185__518185": {
+    "displayName": "getCustomizationIdsName2",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord518185__518185",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_entity_bank_details__372": {
+    "displayName": "Entity Bank Details",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_entity_bank_details__372",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_scheduled_script_queue__440": {
+    "displayName": "Scheduled Script Queue",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_scheduled_script_queue__440",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_altdepreciation__250": {
+    "displayName": "FAM - Alternate Depreciation",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_altdepreciation__250",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_bank_details__374": {
+    "displayName": "Company Bank Details",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_bank_details__374",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_autopost_field__441": {
+    "displayName": "Tracked Field",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_autopost_field__441",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_newsfeed__461": {
+    "displayName": "SuiteSocial News Feed",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_newsfeed__461",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord518981__518981": {
+    "displayName": "getCustomizationIdsName39",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord518981__518981",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_eperform_ez_review_form__140": {
+    "displayName": "eP EZ Review Form",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_eperform_ez_review_form__140",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncbgp_proclog__53": {
+    "displayName": "NC - Process Log",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncbgp_proclog__53",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ss_my_saved_search_sub__450": {
+    "displayName": "My Saved Search Subscription",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ss_my_saved_search_sub__450",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_asset__77": {
+    "displayName": "FAM - Asset",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_asset__77",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_rm_searchcriteria__474": {
+    "displayName": "Project Task Manager Criteria",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_rm_searchcriteria__474",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord663580__663580": {
+    "displayName": "getCustomizationIdsName1733461",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord663580__663580",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_newsfeed_icon__443": {
+    "displayName": "SuiteSocial Icon",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_newsfeed_icon__443",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_repairmaintcategory__78": {
+    "displayName": "FAM - Repair & Maint Category",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_repairmaintcategory__78",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord484080__484080": {
+    "displayName": "getCustomizationIdsNameeaf6",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord484080__484080",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_digest_schedule__453": {
+    "displayName": "SuiteSocial Digest Schedule",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_digest_schedule__453",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord518680__518680": {
+    "displayName": "getCustomizationIdsName9",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord518680__518680",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_format_details__376": {
+    "displayName": "Format Details",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_format_details__376",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ep_proc_results__370": {
+    "displayName": "EP Thread Processing Results",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ep_proc_results__370",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_batch__373": {
+    "displayName": "Payment Batch",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_batch__373",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_container_details__285": {
+    "displayName": "Container Details",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_container_details__285",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_assetlifetimes__67": {
+    "displayName": "FAM - Lifetimes",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_assetlifetimes__67",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_proposaldates__76": {
+    "displayName": "FAM - Last Proposal Dates",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_proposaldates__76",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord518881__518881": {
+    "displayName": "getCustomizationIdsName33",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord518881__518881",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ss_mock_inbox__469": {
+    "displayName": "SuiteSocial Mock Inbox",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ss_mock_inbox__469",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ns_pivotlayout__269": {
+    "displayName": "Search Pivot Layout",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ns_pivotlayout__269",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ss_record_subscription_role__458": {
+    "displayName": "Record Subscription Role",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ss_record_subscription_role__458",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ns_pivotfields__270": {
+    "displayName": "Search Pivot Field",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ns_pivotfields__270",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_autopost__447": {
+    "displayName": "Scheduled Post",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_autopost__447",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_file_admin__380": {
+    "displayName": "Payment File Administration",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_file_admin__380",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord549282__549282": {
+    "displayName": "getCustomizationIdsName1547704277187",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord549282__549282",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_systemsetup__66": {
+    "displayName": "FAM - System Setup",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_systemsetup__66",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_altmethods__251": {
+    "displayName": "FAM - Alternate Methods",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_altmethods__251",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_record_fld_definition__472": {
+    "displayName": "Record Field Definition",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_record_fld_definition__472",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_autosub_type__449": {
+    "displayName": "Record Subscription",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_autosub_type__449",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_est_lab__368": {
+    "displayName": "Estimated Labor Costs",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_est_lab__368",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord663781__663781": {
+    "displayName": "getCustomRecordRecordName6075",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord663781__663781",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_altdeprdef__246": {
+    "displayName": "Default Alternate Depreciation",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_altdeprdef__246",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_role__446": {
+    "displayName": "SuiteSocial Role",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_role__446",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ss_def_autosub_role__466": {
+    "displayName": "Default Subscription Role",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ss_def_autosub_role__466",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_autopost_schedule__442": {
+    "displayName": "SuiteSocial Auto Post Schedule",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_autopost_schedule__442",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_payment_file_format__379": {
+    "displayName": "Payment File Format",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_payment_file_format__379",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_transferaccounts__69": {
+    "displayName": "FAM - Asset Transfer Accounts",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_transferaccounts__69",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord655680__655680": {
+    "displayName": "getCustomRT_Name_HEz5eE55mn",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord655680__655680",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_colleague__445": {
+    "displayName": "SuiteSocial Colleague",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_colleague__445",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncbgp_procinstance__52": {
+    "displayName": "NC - Process Instance",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncbgp_procinstance__52",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_newsfeed_channel__456": {
+    "displayName": "SuiteSocial Channel",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_newsfeed_channel__456",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_nf_post_link__455": {
+    "displayName": "Newsfeed Post Link",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_nf_post_link__455",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord516982__516982": {
+    "displayName": "getCustomizationIdsName3",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord516982__516982",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_scripted_record__468": {
+    "displayName": "SuiteSocial Scripted Record",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_scripted_record__468",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_assetproposal__73": {
+    "displayName": "FAM - Asset Proposal",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_assetproposal__73",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_pfc_configuration__288": {
+    "displayName": "Picture Frame Configuration",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_pfc_configuration__288",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_repairmaintsubcategory__71": {
+    "displayName": "FAM - Repair & Maint Sub A",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_repairmaintsubcategory__71",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_status_type__451": {
+    "displayName": "SuiteSocial Status Type",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_status_type__451",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ncfar_deprmethod__70": {
+    "displayName": "FAM - Depreciation Method",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ncfar_deprmethod__70",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_gus_tr__42": {
+    "displayName": "Travel Request",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_gus_tr__42",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_status__467": {
+    "displayName": "SuiteSocial Status",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_status__467",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ss_subscription_link__460": {
+    "displayName": "Related Record Subscription",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ss_subscription_link__460",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_est_spl__367": {
+    "displayName": "Estimated Special Costs",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_est_spl__367",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_record__452": {
+    "displayName": "SuiteSocial Record",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_record__452",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_bg_procinstance__247": {
+    "displayName": "BG - Process Instance",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_bg_procinstance__247",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ssr_ss_related_record__464": {
+    "displayName": "SuiteSocial Related Record",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ssr_ss_related_record__464",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord518187__518187": {
+    "displayName": "getCustomizationIdsName1",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord518187__518187",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord516380__516380": {
+    "displayName": "getCustomizationIdsName0.754934222527613",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord516380__516380",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord776__432079": {
+    "displayName": "__customRecordType__customrecord432079__",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord776__432079",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_payment_aggregation__371": {
+    "displayName": "Payment Aggregation",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_payment_aggregation__371",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_2663_bill_eft_details__381": {
+    "displayName": "Bill EFT Details",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_2663_bill_eft_details__381",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord11__11": {
+    "displayName": "E-Commerce Survey",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord11__11",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_est_mat__369": {
+    "displayName": "Estimated Material Costs",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_est_mat__369",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_profile_channel__463": {
+    "displayName": "SuiteSocial Profile Channel",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_profile_channel__463",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ss_def_autosub_type__448": {
+    "displayName": "Default Record Subscription",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ss_def_autosub_type__448",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_serial__299": {
+    "displayName": "Serial Numbers",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_serial__299",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_bg_proclog__249": {
+    "displayName": "BG - Process Log",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_bg_proclog__249",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_rctni__444": {
+    "displayName": "Record Code To Name and Id",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_rctni__444",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_pf_kb_sol_fb__279": {
+    "displayName": "KB Solution Feedback",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_pf_kb_sol_fb__279",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord31__31": {
+    "displayName": "Board Plan: Revenue Target",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord31__31",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord521381__521381": {
+    "displayName": "getCustomizationIdsName5117",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord521381__521381",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ss_internal_setting__470": {
+    "displayName": "SuiteSocial Internal Setting",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ss_internal_setting__470",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_field__459": {
+    "displayName": "SuiteSocial Field",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_field__459",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_suitesocial_profile__465": {
+    "displayName": "SuiteSocial Profile",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_suitesocial_profile__465",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ep_preference__377": {
+    "displayName": "Electronic Payments Preference",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ep_preference__377",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_container__284": {
+    "displayName": "Container",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_container__284",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_rm_search__475": {
+    "displayName": "Project Task Manager Search",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_rm_search__475",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_est__366": {
+    "displayName": "Estimate",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_est__366",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord168__87": {
+    "displayName": "Sq ft added",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord168__87",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord483281__483281": {
+    "displayName": "getCustomizationIdsName5980",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord483281__483281",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord489680__489680": {
+    "displayName": "getCustomizationIdsName1540536646476",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord489680__489680",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_ss_subscription_link_sub__439": {
+    "displayName": "My Related Record Subscription",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_ss_subscription_link_sub__439",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_product_review__38": {
+    "displayName": "Product Review",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_product_review__38",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_exclude_track_field__457": {
+    "displayName": "Exclude Tracked Field",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_exclude_track_field__457",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord_added_autosub__471": {
+    "displayName": "Suite Social Added AutoSub",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord_added_autosub__471",
+    "properties": [
+      
+    ]
+  },
+  "__customRecordType__customrecord663980__663980": {
+    "displayName": "getCustomRecordRecordName4142",
+    "childs": {
+      
+    },
+    "partName": "recordType",
+    "id": "__customRecordType__customrecord663980__663980",
+    "properties": [
+      
+    ]
+  }
+}
